@@ -1,0 +1,124 @@
+[
+  {
+    "hero": {
+      "title": "Promark Safe+ Series",
+      "subtitle": "Class 1 fiber and MOPA marking systems for fast, precise engraving on metals and engineered materials.",
+      "image": {
+        "src": "/images/promark/hero.webp",
+        "srcset": "/images/promark/hero.webp",
+        "sizes": "100vw, (min-width: 48rem) 80vw",
+        "alt": "Promark Safe+ fiber laser marker in its enclosure.",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": [
+        {
+          "label": "Buy Promark Safe+ now",
+          "href": "https://flux3dp.com/promark-safeplus-series/",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "workspace",
+        "title": "Supports 150+ materials",
+        "copy": "Engrave and mark a wide range of metals and plastics with consistent results."
+      },
+      {
+        "icon": "speed",
+        "title": "20 W – 100 W options",
+        "copy": "Pick the wattage that fits your workflow, from fast black marking to deep engraving."
+      },
+      {
+        "icon": "speed",
+        "title": "0.03 mm laser spot",
+        "copy": "Ultra-fine galvo spot size for crisp serials, QR codes, and detailed artwork."
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Your Metal Marking Solution.",
+      "headingHtml": "Your Metal Marking Solution.",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Promark combines high accuracy with a compact, intuitive design. It supports materials like stainless steel, aluminum, brass, and titanium, as well as select plastics and acrylics. Whether you’re crafting fine jewelry, customizing tools, or making industrial parts, Promark delivers the precision and power you need to elevate your projects with ease.</p>"
+      ],
+      "image": null,
+      "position": "center"
+    }
+  },
+
+  {
+    "materials": {
+      "title": "Unlock more possibilities with Promark",
+      "subtitle": null,
+      "items": [
+        { "name": "Gold", "details": [], "image": "/images/metals/ador-gold.jpg" },
+        { "name": "Silver", "details": [], "image": "/images/metals/ador-silver.jpg" },
+        { "name": "Copper", "details": [], "image": "/images/metals/ador-copper.jpg" },
+        { "name": "Aluminum", "details": [], "image": "/images/metals/ador-aluminium.jpg" },
+        { "name": "Iron", "details": [], "image": "/images/metals/ador-iron.jpg" },
+        { "name": "Stainless steel", "details": [], "image": "/images/metals/ador-stainless-steel.jpg" },
+        { "name": "Plastic", "details": [], "image": "/images/diode/beamo-acrylic.jpg" },
+        { "name": "Stone", "details": [], "image": "/images/diode/beamo-stone.jpg" },
+        { "name": "Opaque acrylic", "details": [], "image": "/images/metals/ador-black-acrylic.jpg" }
+      ]
+    }
+  },
+  {
+    "post-material": [
+      {
+        "heading": "PromarkDesktop Safe+ specifications",
+        "subheading": null,
+        "bodyHtml": [
+          "<dl class=\"product-detail__specs\">\n<div class=\"product-detail__specs-row\"><dt>Laser safety</dt><dd>Class 1 (IEC 60825-1)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Laser type</dt><dd>Fiber laser</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Power</dt><dd>20 W / 30 W / 50 W</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Work area</dt><dd>8.7\" × 8.7\" (220 × 220 mm)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Laser spot</dt><dd>0.03 mm</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Max engraving speed</dt><dd>10,000 mm/s</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Dimensions</dt><dd>14.7\" × 20.9\" × 24.6\" (374 × 532 × 625 mm)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>20 W: 76.3 lbs (34.6 kg); 30 W / 50 W: 72.9 lbs (33.1 kg)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Positioning</dt><dd>Camera preview / red light preview / dynamic focus</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Software</dt><dd>Beam Studio / LightBurn</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Connection</dt><dd>USB-A</dd></div>\n</dl>"
+        ],
+        "media": {
+          "type": "image",
+          "src": "/images/promark/specs-desktop.webp",
+          "poster": null,
+          "alt": "PromarkDesktop Safe+ laser marker on a bench."
+        }
+      },
+      {
+        "heading": "PromarkMOPA Safe+ specifications",
+        "subheading": null,
+        "bodyHtml": [
+          "<dl class=\"product-detail__specs\">\n<div class=\"product-detail__specs-row\"><dt>Laser safety</dt><dd>Class 1 (IEC 60825-1)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Laser type</dt><dd>MOPA laser</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Work area</dt><dd>4.3\" × 4.3\" (110 × 110 mm)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Laser spot</dt><dd>0.03 mm</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Max engraving speed</dt><dd>10,000 mm/s</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Dimensions</dt><dd>14.7\" × 20.9\" × 24.6\" (374 × 532 × 625 mm)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>75.1 lbs (34.1 kg)</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Positioning</dt><dd>Camera preview / red light preview / dynamic focus</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Software</dt><dd>Beam Studio / LightBurn</dd></div>\n<div class=\"product-detail__specs-row\"><dt>Connection</dt><dd>USB-A</dd></div>\n</dl>"
+        ],
+        "media": {
+          "type": "image",
+          "src": "/images/promark/specs-mopa.webp",
+          "poster": null,
+          "alt": "Color marking example from Promark MOPA Safe+."
+        }
+      }
+    ]
+  },
+  {
+    "gallery": {
+      "heading": "Promark sample gallery",
+      "images": [
+        { "src": "/images/promark/gallery-1.jpg", "srcset": null, "sizes": null, "alt": "Hammer engraved with the FLUX logo." },
+        { "src": "/images/promark/gallery-2.jpg", "srcset": null, "sizes": null, "alt": "Metal flask engraved with beer illustration." },
+        { "src": "/images/promark/gallery-3.jpg", "srcset": null, "sizes": null, "alt": "Engraved pens resting on a surface." },
+        { "src": "/images/promark/gallery-4.jpg", "srcset": null, "sizes": null, "alt": "Metal pet tags engraved with names." },
+        { "src": "/images/promark/gallery-6.jpg", "srcset": null, "sizes": null, "alt": "Engraved metal tin with QR code and specs." },
+        { "src": "/images/promark/gallery-7.jpg", "srcset": null, "sizes": null, "alt": "Metal ring engraved with geometric logo." },
+        { "src": "/images/promark/gallery-8.jpg", "srcset": null, "sizes": null, "alt": "Detailed engraved coin with lion head." },
+        { "src": "/images/promark/gallery-5.jpg", "srcset": null, "sizes": null, "alt": "Patterned metal plate with cat design." }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Stainless steel",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685926/singlecolour.jpg",
+      "alt": "Stainless steel",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Gold",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685924/blendedcolour.jpg",
+      "alt": "Gold",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Silver",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685925/gradientcolour.jpg",
+      "alt": "Silver",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Copper",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685926/singlecolour.jpg",
+      "alt": "Copper",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Brass",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685924/blendedcolour.jpg",
+      "alt": "Brass",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Anodised metal",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685925/gradientcolour.jpg",
+      "alt": "Anodised metal",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Aluminium",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685926/singlecolour.jpg",
+      "alt": "Aluminium",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Iron",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685924/blendedcolour.jpg",
+      "alt": "Iron",
+      "width": null,
+      "height": null
+    }
+  },
+  {
+    "name": "Titanium",
+    "image": {
+      "src": "https://cdn.webshopapp.com/shops/290919/files/459685925/gradientcolour.jpg",
+      "alt": "Titanium",
+      "width": null,
+      "height": null
+    }
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "hero": {
+      "title": "FLUX Ador \u2728",
+      "subtitle": "3-in-1 for laser engraving, cutting, and colour printing.",
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459685083/original/ador-header-w-text.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459685083/100x100x3/ador-header-w-text.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459685083/150x150x3/ador-header-w-text.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459685083/200x200x3/ador-header-w-text.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459685083/250x250x3/ador-header-w-text.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459685083/300x300x3/ador-header-w-text.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459685083/350x350x3/ador-header-w-text.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459685083/400x400x3/ador-header-w-text.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459685083/450x450x3/ador-header-w-text.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459685083/500x500x3/ador-header-w-text.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459685083/550x550x3/ador-header-w-text.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459685083/600x600x3/ador-header-w-text.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459685083/650x650x3/ador-header-w-text.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459685083/700x700x3/ador-header-w-text.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459685083/750x750x3/ador-header-w-text.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459685083/800x800x3/ador-header-w-text.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459685083/850x850x3/ador-header-w-text.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459685083/900x900x3/ador-header-w-text.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459685083/950x950x3/ador-header-w-text.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459685083/1000x1000x3/ador-header-w-text.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459685083/1050x1050x3/ador-header-w-text.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459685083/1100x1100x3/ador-header-w-text.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459685083/1150x1150x3/ador-header-w-text.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459685083/1200x1200x3/ador-header-w-text.jpg 1200w,https://cdn.webshopapp.com/shops/290919/files/459685083/1250x1250x3/ador-header-w-text.jpg 1250w,https://cdn.webshopapp.com/shops/290919/files/459685083/1300x1300x3/ador-header-w-text.jpg 1300w,https://cdn.webshopapp.com/shops/290919/files/459685083/1350x1350x3/ador-header-w-text.jpg 1350w,https://cdn.webshopapp.com/shops/290919/files/459685083/1400x1400x3/ador-header-w-text.jpg 1400w,https://cdn.webshopapp.com/shops/290919/files/459685083/1450x1450x3/ador-header-w-text.jpg 1450w,https://cdn.webshopapp.com/shops/290919/files/459685083/1500x1500x3/ador-header-w-text.jpg 1500w,https://cdn.webshopapp.com/shops/290919/files/459685083/1550x1550x3/ador-header-w-text.jpg 1550w,https://cdn.webshopapp.com/shops/290919/files/459685083/1600x1600x3/ador-header-w-text.jpg 1600w,https://cdn.webshopapp.com/shops/290919/files/459685083/1650x1650x3/ador-header-w-text.jpg 1650w,https://cdn.webshopapp.com/shops/290919/files/459685083/1700x1700x3/ador-header-w-text.jpg 1700w,https://cdn.webshopapp.com/shops/290919/files/459685083/1750x1750x3/ador-header-w-text.jpg 1750w,https://cdn.webshopapp.com/shops/290919/files/459685083/1800x1800x3/ador-header-w-text.jpg 1800w,https://cdn.webshopapp.com/shops/290919/files/459685083/1850x1850x3/ador-header-w-text.jpg 1850w,https://cdn.webshopapp.com/shops/290919/files/459685083/1900x1900x3/ador-header-w-text.jpg 1900w,https://cdn.webshopapp.com/shops/290919/files/459685083/1950x1950x3/ador-header-w-text.jpg 1950w,https://cdn.webshopapp.com/shops/290919/files/459685083/2000x2000x3/ador-header-w-text.jpg 2000w,https://cdn.webshopapp.com/shops/290919/files/459685083/original/ador-header-w-text.jpg 2000w",
+        "sizes": "(min-width: 64rem) 700px, 100vw",
+        "alt": "FLUX Ador \u2728",
+        "width": null,
+        "height": null
+      },
+      "background": {
+        "mobile": "https://cdn.webshopapp.com/shops/290919/files/459685215/ador-header-rainbow-mobile.jpg",
+        "desktop": "https://cdn.webshopapp.com/shops/290919/files/459685161/ador-header-rainbow.jpg"
+      },
+      "ctas": [
+        {
+          "label": "Buy Ador now",
+          "href": "https://www.fluxlasers.com/ador.html?id=291139102",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "laser",
+        "title": "Colour-ready workflow",
+        "copy": "Swap between engraving, cutting, and CMYK printing modules to finish every product with vivid detail."
+      },
+      {
+        "icon": "workspace",
+        "title": "Spacious work area",
+        "copy": "A 43 \u00d7 30 cm bed with autofocus and camera preview lets you position any project with confidence."
+      },
+      {
+        "icon": "shield",
+        "title": "Smart automation",
+        "copy": "Beam Studio alignment, built-in safety sensors, and guided material presets remove guesswork."
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "3-in-1 laser cutter",
+      "headingHtml": "3-in-1 laser cutter",
+      "subheading": "<span class=\"text-rainbow inline\">Cut, engrave & colour print</span>",
+      "subheadingHtml": "Cut, engrave &amp; colour print",
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Ador is the world\u2019s first colour printing laser cutter. With its <strong>three interchangeable modules</strong> you can <strong>engrave</strong> and <strong>cut</strong> a variety of materials, as well as <strong>add colour</strong> to your projects. Just switch modules according to the material and creative requirements, significantly broadening your creative possibilities.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/461186776/original/ador-intro.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/461186776/100x89x3/ador-intro.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/461186776/150x134x3/ador-intro.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/461186776/200x178x3/ador-intro.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/461186776/250x223x3/ador-intro.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/461186776/300x267x3/ador-intro.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/461186776/350x312x3/ador-intro.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/461186776/400x356x3/ador-intro.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/461186776/450x401x3/ador-intro.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/461186776/500x445x3/ador-intro.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/461186776/550x490x3/ador-intro.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/461186776/600x534x3/ador-intro.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/461186776/650x579x3/ador-intro.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/461186776/700x623x3/ador-intro.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/461186776/750x668x3/ador-intro.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/461186776/original/ador-intro.jpg 766w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Cardboard printed and cut by FLUX Ador into animals to play with. The animals are stacked on top of each other",
+        "width": "766",
+        "height": "682"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Laser crafting made easy",
+      "headingHtml": "Laser crafting made easy",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Designed with a <strong>user-friendly interface</strong>, Ador is the ideal laser crafting tool for professionals and an excellent starting point for beginners venturing into their artistic exploration. With unlimited possibilities at your fingertips, begin your journey into laser crafting with Ador now.<br><br>Ador has a <strong>big working space</strong> of 43 x 30 cm, allowing materials with a maximum thickness of 3 cm, expanding the horizons of your creativity.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459685086/original/ador-product.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459685086/100x69x3/ador-product.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459685086/150x104x3/ador-product.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459685086/200x139x3/ador-product.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459685086/250x173x3/ador-product.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459685086/300x208x3/ador-product.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459685086/350x243x3/ador-product.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459685086/400x278x3/ador-product.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459685086/450x312x3/ador-product.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459685086/500x347x3/ador-product.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459685086/550x382x3/ador-product.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459685086/600x416x3/ador-product.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459685086/650x451x3/ador-product.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459685086/700x486x3/ador-product.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459685086/750x520x3/ador-product.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459685086/800x555x3/ador-product.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459685086/850x590x3/ador-product.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459685086/900x624x3/ador-product.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459685086/950x659x3/ador-product.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459685086/1000x694x3/ador-product.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459685086/1050x729x3/ador-product.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459685086/1100x763x3/ador-product.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459685086/1150x798x3/ador-product.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459685086/original/ador-product.jpg 1176w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "FLUX Ador machine in perspective",
+        "width": "1176",
+        "height": "816"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Infinite possibilitieswith interchangeable modules",
+      "headingHtml": "<span class=\"text-rainbow inline\">Infinite possibilities</span><br>with interchangeable modules",
+      "subheading": "10 W / 20 W diode laser module",
+      "subheadingHtml": "10 W / 20 W diode laser module",
+      "bodyHtml": [
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Cut and engrave an expansive range of materials.</p>",
+        "<p class=\"padding-x-xs\">Wood  / Leather / Paper / Fabric</p>",
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Engrave on metal and metallic materials with ease.</p>",
+        "<p class=\"padding-x-xs\">Metal / Plastic</p>",
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Add vivid colours to your work: print a single colour, blended colours or gradients.</p>",
+        "<p class=\"padding-x-xs\">Wood / Canvas / Paper / Fabric</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459685302/original/diode.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459685302/100x136x3/diode.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459685302/150x204x3/diode.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459685302/200x272x3/diode.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459685302/250x340x3/diode.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459685302/300x408x3/diode.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459685302/350x476x3/diode.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459685302/400x544x3/diode.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459685302/450x612x3/diode.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459685302/500x680x3/diode.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459685302/original/diode.jpg 500w",
+        "sizes": "(min-width: 64rem) 100vw, 50vw",
+        "alt": "The 10 W / 20 W diode laser module of the FLUX Ador",
+        "width": "500",
+        "height": "680"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "User-friendly experience",
+      "headingHtml": "User-friendly experience",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"margin-x-auto max-width-sm padding-top-sm padding-bottom-xl\">Whether you're a first-time user or a seasoned professional, Ador\u2019s straightforward, intuitive ecosystem makes it simple and seamless to move from design to product.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Choose your material</p>",
+        "<p>Use wood, acrylic, leather, fabric or even stone and cement.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Drag and drop your design</p>",
+        "<p>Design in your preferred graphics editor and import it into our user-friendly application.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Engrave, cut or print colour</p>",
+        "<p>Watch the magic happen and wait for your machine to finish the project.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Project completed!</p>",
+        "<p>Time to show off, use, gift or even sell your creation.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459685391/original/ador-step-1.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459685391/50x50x3/ador-step-1.jpg 50w,https://cdn.webshopapp.com/shops/290919/files/459685391/75x75x3/ador-step-1.jpg 75w,https://cdn.webshopapp.com/shops/290919/files/459685391/100x100x3/ador-step-1.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459685391/125x125x3/ador-step-1.jpg 125w,https://cdn.webshopapp.com/shops/290919/files/459685391/150x150x3/ador-step-1.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459685391/175x175x3/ador-step-1.jpg 175w,https://cdn.webshopapp.com/shops/290919/files/459685391/200x200x3/ador-step-1.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459685391/225x225x3/ador-step-1.jpg 225w,https://cdn.webshopapp.com/shops/290919/files/459685391/250x250x3/ador-step-1.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459685391/275x275x3/ador-step-1.jpg 275w,https://cdn.webshopapp.com/shops/290919/files/459685391/300x300x3/ador-step-1.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459685391/325x325x3/ador-step-1.jpg 325w,https://cdn.webshopapp.com/shops/290919/files/459685391/350x350x3/ador-step-1.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459685391/375x375x3/ador-step-1.jpg 375w,https://cdn.webshopapp.com/shops/290919/files/459685391/400x400x3/ador-step-1.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459685391/425x425x3/ador-step-1.jpg 425w,https://cdn.webshopapp.com/shops/290919/files/459685391/450x450x3/ador-step-1.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459685391/475x475x3/ador-step-1.jpg 475w,https://cdn.webshopapp.com/shops/290919/files/459685391/500x500x3/ador-step-1.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459685391/original/ador-step-1.jpg 500w",
+        "sizes": "(min-width: 64rem) 400px, 200px",
+        "alt": "A woman placing a light piece of wood in a FLUX Ador with an open lid.",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Cutting & engraving",
+      "headingHtml": "10 W / 20 W diode laser module",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>The diode laser module can <strong>cut and engrave a broad range of materials</strong>. Plywood, leather, black acrylic, and fabric can all be cut and engraved. Besides that, you can engrave rubber, anodised metal, cement, stone, and stainless steel.<br><br>The diode laser module has an impressive lifespan extending up to 10,000 hours reducing maintenance expenses significantly.<br><br><strong>The main difference between the 10 W and 20 W diode laser is its power</strong>. The 20 W diode laser provides stronger cutting capabilities to help you cut through thicker materials with ease.</p>"
+      ],
+      "image": {
+        "src": "/images/features/ador-cutting-engraving.jpg",
+        "alt": "Close-up of a wooden mobile phone case with an engraving of the face of a dog in period dress in woodcut style.",
+        "width": "1176",
+        "height": "676"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Metal engraving",
+      "headingHtml": "2 W infrared laser module add-on",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>No more need to buy a second machine dedicated to metal engraving. Take your engraving to the next level with the optional 2 W infrared laser module. This add-on allows you to engrave additional metals and metallic materials.</p><p>You can easily engrave gold, silver, copper, titanium, anodised metal, aluminium and iron.</p>"
+      ],
+      "image": {
+        "src": "/images/features/infrared-example.jpg",
+        "alt": "Infrared laser engraving example on a metallic surface showing a detailed image of a lion's head.",
+        "width": "1176",
+        "height": "676"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Design with familiar tools",
+      "headingHtml": "Design with familiar tools",
+      "subheading": "SVG / PNG / JPG / DXF / PDF / AI",
+      "subheadingHtml": "SVG / PNG / JPG / DXF / PDF / AI",
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Ador is compatible with JPG, PNG, SVG, and DXF files, so just use the design software that is best for you. Adobe Illustrator, Adobe Photoshop, AutoCAD, CorelDraw, Inkscape, Sketch, even Microsoft Word!</p>",
+        "<p class=\"padding-top-md\">Our free in-house software <a href=\"https://www.fluxlasers.com/beam-studio/\">Beam Studio</a> provides a one-stop design experience for all FLUX laser cutter users. <br><br>Edit texts, vector files, bitmap images, align objects, and more for a seamless design experience.<br><br><br><br><a class=\"btn btn-secondary\" href=\"https://www.fluxlasers.com/beam-studio/\">Learn more about Beam Studio</a></p>",
+        "<p class=\"padding-top-md\">We have got you covered. If you are already using LightBurn to create and cut your projects, you can use our <strong>LightBurn bridge cable</strong> to connect and control your Ador, including its add-ons. Unlock the full potential of your laser cutter inside LightBurn.<br><br><br><br></p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673835/original/file-compatibility.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673835/100x105x3/file-compatibility.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673835/150x157x3/file-compatibility.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673835/200x209x3/file-compatibility.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673835/250x262x3/file-compatibility.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673835/300x314x3/file-compatibility.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673835/350x367x3/file-compatibility.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673835/400x419x3/file-compatibility.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673835/450x471x3/file-compatibility.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673835/500x524x3/file-compatibility.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673835/550x576x3/file-compatibility.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673835/600x628x3/file-compatibility.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673835/650x681x3/file-compatibility.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673835/original/file-compatibility.jpg 678w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Grid of compatible software with Beam Studio: Adobe Illustrator, Adobe Photoshop, Affinity Design, Autodesk Autocat, SketchUp, Solidworks, Sketch, Corel Draw, Rhinoceros",
+        "width": "678",
+        "height": "710"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Craft your imagination",
+      "headingHtml": "Craft your imagination",
+      "subheading": "Small and large businesses",
+      "subheadingHtml": "Small and large businesses",
+      "bodyHtml": [
+        "<p class=\"text-center max-width-sm margin-x-auto padding-bottom-lg padding-top-sm\">Whether you are a hobbyist, educator, small business owner or part of a larger enterprise: discover the unparalleled versatility to bring your designs to life.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Streamline your manufacturing processes and create eye-catching products that will last.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Elevate your creative skills with the help of a laser cutter &amp; engraver and colour printing.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Inspire children's creativity and bring their ideas to life with an innovative laser cutting and engraving experience.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673656/original/users-1.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673656/100x141x3/users-1.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673656/150x211x3/users-1.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673656/200x281x3/users-1.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673656/250x352x3/users-1.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673656/300x422x3/users-1.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673656/350x492x3/users-1.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673656/400x563x3/users-1.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673656/450x633x3/users-1.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673656/500x703x3/users-1.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673656/550x773x3/users-1.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673656/600x844x3/users-1.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673656/650x914x3/users-1.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673656/700x984x3/users-1.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673656/750x1055x3/users-1.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673656/original/users-1.jpg 768w",
+        "sizes": "(min-width:64rem) 33vw,100vw",
+        "alt": "A happy business woman on the phone with in the background some FLUX Ador examples.",
+        "width": "768",
+        "height": "1080"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "stats": [
+      {
+        "icon": "laser",
+        "value": "10 / 20 W",
+        "label": "Diode laser"
+      },
+      {
+        "icon": "workspace",
+        "value": "43 \u00d7 30 cm",
+        "label": "Work area"
+      },
+      {
+        "icon": "speed",
+        "value": "400 mm/s",
+        "label": "Max. speed"
+      },
+      {
+        "icon": "ruler",
+        "value": "0 - 10 mm",
+        "label": "Cutting thickness"
+      }
+    ]
+  },
+  {
+    "modules": {
+      "headingHtml": "<span class=\"text-rainbow inline\">Infinite possibilities</span><br>with interchangeable modules",
+      "modules": [
+        {
+          "title": "10 W / 20 W diode laser module",
+          "description": "Cut and engrave an expansive range of materials.",
+          "materials": "Wood / Leather / Paper / Fabric",
+          "accent": null,
+          "image": {
+            "src": "/images/modules/ador-10-w-20-w-diode-laser-module.jpg",
+            "alt": "The 10 W / 20 W diode laser module of the FLUX Ador",
+            "width": "500",
+            "height": "680"
+          }
+        },
+        {
+          "title": "2 W infrared laser module add-on",
+          "description": "Engrave on metal and metallic materials with ease.",
+          "materials": "Metal / Plastic",
+          "accent": null,
+          "image": {
+            "src": "/images/modules/ador-2-w-infrared-laser-module-add-on.jpg",
+            "alt": "The 2 W infrared laser module of the FLUX Ador",
+            "width": "500",
+            "height": "680"
+          }
+        },
+        {
+          "title": "Printing module add-on",
+          "description": "Add vivid colours to your work: print a single colour, blended colours or gradients.",
+          "materials": "Wood / Canvas / Paper / Fabric",
+          "accent": "rainbow",
+          "image": {
+            "src": "/images/modules/ador-printing-module-add-on.jpg",
+            "alt": "The Printing module of the FLUX Ador",
+            "width": "500",
+            "height": "680"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "feature": {
+      "heading": "Cutting & engraving",
+      "subheading": "10 W / 20 W diode laser module",
+      "bodyHtml": [
+        "<p>The diode laser module can <strong>cut and engrave a broad range of materials</strong>. Plywood, leather, black acrylic, and fabric can all be cut and engraved. Besides that, you can engrave rubber, anodised metal, cement, stone, and stainless steel.<br><br>The diode laser module has an impressive lifespan extending up to 10,000 hours reducing maintenance expenses significantly.<br><br><strong>The main difference between the 10 W and 20 W diode laser is its power</strong>. The 20 W diode laser provides stronger cutting capabilities to help you cut through thicker materials with ease.</p>"
+      ],
+      "image": {
+        "src": "/images/features/ador-cutting-engraving.jpg",
+        "alt": "Close-up of a wooden mobile phone case with an engraving of the face of a dog in period dress in woodcut style.",
+        "width": "1176",
+        "height": "676"
+      }
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Colour printing",
+      "headingHtml": "<span class=\"text-rainbow inline\">Colour printing</span>",
+      "subheading": "Printing module add-on",
+      "subheadingHtml": "Printing module add-on",
+      "bodyHtml": [
+        "<p>Utilising colour blending technology, you can shift from simple single-colour printing to producing vibrant multi-colour effects, enhancing the vibrancy of your creations.</p>",
+        "<p>The optional printing module enables you to infuse vivid colours into your masterpiece.</p>",
+        "<div class=\"product-detail__color-grid\">\n\t\t\t\t\t<figure class=\"product-detail__color-grid-item\">\n\t\t\t\t\t\t<img src=\"/images/ador/color-printing-single.jpg\" alt=\"Shapes in black print on blank wood\" width=\"162\" height=\"162\" loading=\"lazy\" />\n\t\t\t\t\t\t<figcaption>Single colour</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t\t<figure class=\"product-detail__color-grid-item\">\n\t\t\t\t\t\t<img src=\"/images/ador/color-printing-blended.jpg\" alt=\"Shapes in blended colour print on blank wood\" width=\"162\" height=\"162\" loading=\"lazy\" />\n\t\t\t\t\t\t<figcaption>Blended colour</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t\t<figure class=\"product-detail__color-grid-item\">\n\t\t\t\t\t\t<img src=\"/images/ador/color-printing-gradients.jpg\" alt=\"Shapes in gradient print on blank wood\" width=\"162\" height=\"162\" loading=\"lazy\" />\n\t\t\t\t\t\t<figcaption>Gradients</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t</div>"
+      ],
+      "image": null,
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "CMYK eco solvent ink",
+      "headingHtml": "CMYK eco solvent ink",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Ador works with cyan, magenta, yellow and black ink cartridges. Simply swap out the cartridge for colour prints as needed.</p>",
+        "<p>This ink is versatile, and suitable for printing on a wide array of materials including wood, bamboo, cardboard, fabric, and canvas. To ensure proper ink adhesion on porous surfaces, apply a primer.</p>",
+        "<p>The resolution for single-colour printing is 300 dpi, while blended-colour printing is 150 dpi.</p>",
+        "<p><a href=\"https://www.fluxlasers.com/blogs/projects/bring-vivid-colours-to-your-laser-creation-with-ad/\" target=\"_blank\" rel=\"noreferrer\">Learn more about printing with Ador</a></p>"
+      ],
+      "image": {
+        "src": "/images/ador/cmyk-cartridges.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Ador solvent ink cartridges in Cyan, Magenta, Yellow and Black",
+        "width": "1176",
+        "height": "728"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Print on flat surfaces and make your work pop",
+      "headingHtml": "Print on flat surfaces and make your work pop",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Ador specialises in printing on materials with flat surfaces, handling up to 30 mm thickness with precision and ease.</p>"
+      ],
+      "image": {
+        "src": "/images/ador/flat-surface-paddles.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Three wooden table tennis bats at an angle with colourful printed geometric shapes.",
+        "width": "1176",
+        "height": "728"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Hassle-free software & app",
+      "headingHtml": "Hassle-free software &amp; app",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Our free in-house software <a href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Beam Studio</a> provides a one-stop design experience for all FLUX laser cutter users.</p>",
+        "<p>Edit texts, vector files, bitmap images, align objects, and more for a seamless design experience.</p>",
+        "<a class='btn btn-secondary' href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Learn more about Beam Studio</a>"
+      ],
+      "image": {
+        "src": "/images/ador/beam-studio-devices.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Desktop computer, laptop and tablet showing Beam Studio",
+        "width": "904",
+        "height": "534"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Already using LightBurn?",
+      "headingHtml": "Already using LightBurn?",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>We have got you covered. If you are already using LightBurn to create and cut your projects, you can use our <strong>LightBurn bridge cable</strong> to connect and control your Ador, including its add-ons. Unlock the full potential of your laser cutter inside LightBurn.</p>",
+        "<div class=\"product-detail__lightburn-cta\">\n\t\t\t\t\t<img src=\"/images/ador/lightburn-icon.png\" alt=\"LightBurn logo\" width=\"58\" height=\"58\" loading=\"lazy\" />\n\t\t\t\t\t<a class=\"btn btn-secondary\" href=\"https://www.fluxlasers.com/lightburn-cable.html\" target=\"_blank\" rel=\"noreferrer\">Learn more about the LightBurn bridge cable</a>\n\t\t\t\t</div>"
+      ],
+      "image": {
+        "src": "/images/ador/lightburn-ador.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Laptop showing LightBurn software next to a FLUX Ador on a white table.",
+        "width": "1176",
+        "height": "840"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "FLUX Ador specifications",
+      "headingHtml": "FLUX Ador specifications",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<dl class=\"product-detail__specs\">\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Dimensions</dt>\n\t\t\t\t\t<dd>637 \u00d7 488 \u00d7 226 mm</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Weight</dt>\n\t\t\t\t\t<dd>19 kg</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Work area</dt>\n\t\t\t\t\t<dd>430 \u00d7 300 mm; height up to 30 mm</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Camera preview area</dt>\n\t\t\t\t\t<dd>Whole work area</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Voltage</dt>\n\t\t\t\t\t<dd>AC 110 V / 240 V</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Touch screen</dt>\n\t\t\t\t\t<dd>Yes, 8 inches (diagonal)</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Camera</dt>\n\t\t\t\t\t<dd>8 MP</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>I / O</dt>\n\t\t\t\t\t<dd>USB / WiFi</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Laser spec</dt>\n\t\t\t\t\t<dd>10 W / 20 W Diode laser Module</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Laser wavelength</dt>\n\t\t\t\t\t<dd>-</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Laser moving speed</dt>\n\t\t\t\t\t<dd>0 ~ 400 mm/s</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Laser cutting thickness</dt>\n\t\t\t\t\t<dd>Varies for different materials</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Software mode</dt>\n\t\t\t\t\t<dd>Vector / Graphic (monochrome, greyscale)</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Software operating system</dt>\n\t\t\t\t\t<dd>Windows / macOS / Linux / Chrome / Safari</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Software file type</dt>\n\t\t\t\t\t<dd>JPG / PNG / SVG / DXF / AI / PDF</dd>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"product-detail__specs-row\">\n\t\t\t\t\t<dt>Packaging dimensions</dt>\n\t\t\t\t\t<dd>62 cm \u00d7 76.5 cm \u00d7 35 cm</dd>\n\t\t\t\t</div>\n\t\t\t</dl>"
+      ],
+      "image": null,
+      "position": "left"
+    }
+  },
+  {
+    "materials": [
+      {
+        "name": "Plywood / MDF",
+        "details": [
+          "10 W: 8 mm",
+          "20 W: 10 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/ador-plywood-mdf.jpg"
+      },
+      {
+        "name": "Bamboo",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-bamboo.jpg"
+      },
+      {
+        "name": "Leather",
+        "details": [
+          "10 W: 3 mm",
+          "20 W: 3 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/ador-leather.jpg"
+      },
+      {
+        "name": "Cardboard",
+        "details": [
+          "10 W: 3 mm",
+          "20 W: 3 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/ador-cardboard.jpg"
+      },
+      {
+        "name": "Black acrylic*",
+        "details": [
+          "10 W: 5 mm",
+          "20 W: 8 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/ador-black-acrylic.jpg"
+      },
+      {
+        "name": "Fabric",
+        "details": [
+          "10 W: 3 mm",
+          "20 W: 5 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/ador-fabric.jpg"
+      },
+      {
+        "name": "Rubber",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-rubber.jpg"
+      },
+      {
+        "name": "Anodised Metal",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-anodised-metal.jpg"
+      },
+      {
+        "name": "Cement",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-cement.jpg"
+      },
+      {
+        "name": "Stone",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-stone.jpg"
+      },
+      {
+        "name": "Stainless Steel",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/ador-stainless-steel.jpg"
+      }
+    ]
+  },
+  {
+    "metals": {
+      "heading": "Metals you can engrave",
+      "cards": [
+        {
+          "name": "Stainless steel",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-stainless-steel.jpg",
+            "alt": "Stainless steel",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Gold",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-gold.jpg",
+            "alt": "Gold",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Silver",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-silver.jpg",
+            "alt": "Silver",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Copper",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-copper.jpg",
+            "alt": "Copper",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Brass",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-brass.jpg",
+            "alt": "Brass",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Anodised metal",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-anodised-metal.jpg",
+            "alt": "Anodised metal",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Aluminium",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-aluminium.jpg",
+            "alt": "Aluminium",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Iron",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-iron.jpg",
+            "alt": "Iron",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Titanium",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-titanium.jpg",
+            "alt": "Titanium",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Black acrylic",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-black-acrylic.jpg",
+            "alt": "Black acrylic",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "Carbon fibre",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-carbon-fibre.jpg",
+            "alt": "Carbon fibre",
+            "width": "360",
+            "height": "360"
+          }
+        },
+        {
+          "name": "ABS",
+          "details": [],
+          "image": {
+            "src": "/images/metals/ador-abs.jpg",
+            "alt": "ABS",
+            "width": "360",
+            "height": "360"
+          }
+        }
+      ]
+    }
+  }
+]

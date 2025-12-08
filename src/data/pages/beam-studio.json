@@ -1,0 +1,421 @@
+[
+  {
+    "hero": {
+      "title": "Beam Studio",
+      "subtitle": "Redefining Possibilities, Simplifying Mastery.",
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS-Featured-Image.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Beam Studio logo",
+        "width": "400",
+        "height": "400"
+      },
+      "background": {
+        "desktop": "https://flux3dp.com/wp-content/uploads/2024/04/banner_BS-desktop.jpg"
+      },
+      "ctas": [
+        {
+          "label": "Download Software",
+          "href": "https://flux3dp.com/downloads/",
+          "variant": "primary"
+        },
+        {
+          "label": "Open Beam Studio Web",
+          "href": "http://studio.flux3dp.com/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "What is Beam Studio?",
+      "headingHtml": "What is Beam Studio?",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p><strong>Free laser cutter software</strong> built for FLUX Lasers, Beam Studio works on desktop, tablet, and mobile, enabling seamless creation across multiple platforms.</p>",
+        "<p>Start your project in Beam Studio, using its powerful built-in features, or fine-tune your designs later using a comprehensive set of post-processing tools.</p>",
+        "<p class=\"note\">* Web-version only supports Firmware v3.5.2 &amp; above. * Recommend using Google Chrome or Safari.</p>"
+      ],
+      "image": null,
+      "media": {
+        "type": "video",
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/BS-video-final-2-1.mp4",
+        "poster": null,
+        "alt": "Beam Studio overview"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Camera Preview",
+      "headingHtml": "Camera Preview",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Real-time preview through your FLUX Laser’s built-in camera.</p>"
+      ],
+      "image": null,
+      "media": {
+        "type": "video",
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/BS_Camera-Preview-1.mp4",
+        "poster": null,
+        "alt": "Live camera preview in Beam Studio"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Preset Parameters",
+      "headingHtml": "Preset Parameters",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Select fine-tuned cutting and engraving settings for common materials.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Preset-Parameters-3.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Preset-Parameters-3.jpg 880w, https://flux3dp.com/wp-content/uploads/2024/04/Feature_Preset-Parameters-3-700x394.jpg 700w, https://flux3dp.com/wp-content/uploads/2024/04/Feature_Preset-Parameters-3-539x303.jpg 539w",
+        "sizes": "(max-width: 880px) 100vw, 880px",
+        "alt": "Preset material parameters in Beam Studio",
+        "width": "880",
+        "height": "495"
+      },
+      "media": null,
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Versatile Text Tools",
+      "headingHtml": "Versatile Text Tools",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Text on path, weld text, vertical text, and more for every typographic need.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Text-tools-2.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Text-tools-2.jpg 800w, https://flux3dp.com/wp-content/uploads/2024/04/Feature_Text-tools-2-700x394.jpg 700w, https://flux3dp.com/wp-content/uploads/2024/04/Feature_Text-tools-2-539x303.jpg 539w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "alt": "Beam Studio text tools",
+        "width": "800",
+        "height": "450"
+      },
+      "media": null,
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Curated Clipart",
+      "headingHtml": "Curated Clipart",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Choose from over 1,000,000+ vector elements to start your design.</p>"
+      ],
+      "image": null,
+      "media": {
+        "type": "video",
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/BS_Elements-1.mp4",
+        "poster": null,
+        "alt": "Clipart elements library in Beam Studio"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Intelligent Background Remover",
+      "headingHtml": "Intelligent Background Remover",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>One-click to effortlessly remove image backgrounds, ideal for your portrait and pet photos.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_BG-removal.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Background removal in Beam Studio",
+        "width": "880",
+        "height": "495"
+      },
+      "media": null,
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Multi-layer Engraving & Cutting",
+      "headingHtml": "Multi-layer Engraving & Cutting",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Simply set up multiple layers for each cutting and engraving task in one project. Always engrave first before cutting.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Multilayer-1.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Multi-layer workflow in Beam Studio",
+        "width": "880",
+        "height": "495"
+      },
+      "media": null,
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Cloud Storage",
+      "headingHtml": "Cloud Storage",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Seamlessly access your design files across devices and work from anywhere.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/Feature_Cloud.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Cloud storage view in Beam Studio",
+        "width": "880",
+        "height": "495"
+      },
+      "media": null,
+      "position": "left"
+    }
+  },
+  {
+    "modules": {
+      "headingHtml": "Generators for 3D Box &amp; QR Code",
+      "modules": [
+        {
+          "title": "Boxgen",
+          "description": "Jumpstart your project creation journey with custom 3D laser-cut designs.",
+          "materials": "Ready-to-cut box layouts",
+          "accent": null,
+          "image": {
+            "src": "https://flux3dp.com/wp-content/uploads/2024/04/Generator_Boxgen.png",
+            "alt": "Boxgen generator preview",
+            "width": "800",
+            "height": "800"
+          }
+        },
+        {
+          "title": "QR Code Generator",
+          "description": "Generate QR codes for any link or text to engrave or cut.",
+          "materials": "QRs for links & text",
+          "accent": null,
+          "image": {
+            "src": "https://flux3dp.com/wp-content/uploads/2024/04/Generator_QR-Code.png",
+            "alt": "QR code generator preview",
+            "width": "800",
+            "height": "800"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "post-material": [
+      {
+        "heading": "Smart Nest",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Save material by selecting multiple elements then one-click to organize.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/07/BS_AutoArrangement.mp4",
+          "poster": null,
+          "alt": "Smart Nest auto arrangement"
+        }
+      },
+      {
+        "heading": "Array",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Array layout for repeating designs with consistent spacing.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Array-1.mp4",
+          "poster": null,
+          "alt": "Array feature in Beam Studio"
+        }
+      },
+      {
+        "heading": "Offset",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Create precise outlines or inset paths instantly.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Offset-1.mp4",
+          "poster": null,
+          "alt": "Offset paths in Beam Studio"
+        }
+      },
+      {
+        "heading": "Trace",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Convert images into cut-ready vector shapes with tracing.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Trace-1.mp4",
+          "poster": null,
+          "alt": "Trace feature in Beam Studio"
+        }
+      },
+      {
+        "heading": "Grading",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Adjust tonal gradients to prep artwork for engraving.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Grading.mp4",
+          "poster": null,
+          "alt": "Grading controls in Beam Studio"
+        }
+      },
+      {
+        "heading": "Invert",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Flip artwork luminance for cleaner engravings.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Invert-1.mp4",
+          "poster": null,
+          "alt": "Invert artwork in Beam Studio"
+        }
+      },
+      {
+        "heading": "Boolean",
+        "subheading": null,
+        "bodyHtml": [
+          "<p>Combine, subtract, or intersect shapes with boolean tools.</p>"
+        ],
+        "media": {
+          "type": "video",
+          "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_Boolean.mp4",
+          "poster": null,
+          "alt": "Boolean operations in Beam Studio"
+        }
+      }
+    ]
+  },
+  {
+    "icon-grid": {
+      "type": "compatibility",
+      "title": "User-friendly Compatibility",
+      "subtitle": "Create your designs using popular laser-cut design software and seamlessly transfer them to Beam Studio.",
+      "icons": [
+        {
+          "name": "Illustrator",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_ai-150x150.png"
+        },
+        {
+          "name": "Photoshop",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_PS-150x150.png"
+        },
+        {
+          "name": "Affinity Designer",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Affinity-Design-150x150.png"
+        },
+        {
+          "name": "AutoCAD",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_autocad-150x150.png"
+        },
+        {
+          "name": "SketchUp",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_sketchup-150x150.png"
+        },
+        {
+          "name": "SolidWorks",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_solidwork-150x150.png"
+        },
+        {
+          "name": "Sketch",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Sketch-150x150.png"
+        },
+        {
+          "name": "CorelDRAW",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_coreldraw-150x150.png"
+        },
+        {
+          "name": "Rhinoceros",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Rhinoceros-150x150.png"
+        }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Supporting File Formats",
+      "headingHtml": "Supporting File Formats",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>SVG / JPG / PNG / PDF / DXF / AI / WEBP</p>",
+        "<p>*Supports sliced DXF and PDF files in Fusion 360</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/04/BS_Supporting-file-types.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Supported file formats in Beam Studio",
+        "width": "1200",
+        "height": "675"
+      },
+      "media": null,
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Illustrator to Beam Studio Extension",
+      "headingHtml": "Illustrator to Beam Studio Extension",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>One-click to import your work from Illustrator for a smooth workflow.</p>"
+      ],
+      "image": null,
+      "media": {
+        "type": "video",
+        "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS_BeamStudioConnect.mp4",
+        "poster": null,
+        "alt": "Beam Studio Connect extension"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "icon-grid": {
+      "type": "compatibility",
+      "title": "Cross-platform Compatibility",
+      "subtitle": "FLUX laser cutters can connect to and receive commands from multiple computers or mobile devices using Beam Studio.",
+      "icons": [
+        { "name": "Windows 10+", "image": "/images/beam-studio/windows.svg" },
+        { "name": "MacOS 11+", "image": "/images/beam-studio/macos.svg" },
+        { "name": "Linux 20+", "image": "/images/beam-studio/linux.svg" },
+        { "name": "ChromeOS", "image": "/images/beam-studio/chromeos.svg" },
+        { "name": "Chrome or Safari recommended", "image": "/images/beam-studio/browser.svg" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "hero": {
+      "title": "FLUX HEXA",
+      "subtitle": "The powerful CO₂ laser cutter to fulfil your professional needs.",
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683299/original/hexa-header-w-text.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459683299/100x100x3/hexa-header-w-text.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459683299/150x150x3/hexa-header-w-text.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459683299/200x200x3/hexa-header-w-text.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459683299/250x250x3/hexa-header-w-text.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459683299/300x300x3/hexa-header-w-text.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459683299/350x350x3/hexa-header-w-text.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459683299/400x400x3/hexa-header-w-text.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459683299/450x450x3/hexa-header-w-text.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459683299/500x500x3/hexa-header-w-text.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459683299/550x550x3/hexa-header-w-text.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459683299/600x600x3/hexa-header-w-text.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459683299/650x650x3/hexa-header-w-text.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459683299/700x700x3/hexa-header-w-text.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459683299/750x750x3/hexa-header-w-text.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459683299/800x800x3/hexa-header-w-text.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459683299/850x850x3/hexa-header-w-text.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459683299/900x900x3/hexa-header-w-text.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459683299/950x950x3/hexa-header-w-text.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459683299/1000x1000x3/hexa-header-w-text.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459683299/1050x1050x3/hexa-header-w-text.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459683299/1100x1100x3/hexa-header-w-text.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459683299/1150x1150x3/hexa-header-w-text.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459683299/1200x1200x3/hexa-header-w-text.jpg 1200w,https://cdn.webshopapp.com/shops/290919/files/459683299/1250x1250x3/hexa-header-w-text.jpg 1250w,https://cdn.webshopapp.com/shops/290919/files/459683299/1300x1300x3/hexa-header-w-text.jpg 1300w,https://cdn.webshopapp.com/shops/290919/files/459683299/1350x1350x3/hexa-header-w-text.jpg 1350w,https://cdn.webshopapp.com/shops/290919/files/459683299/1400x1400x3/hexa-header-w-text.jpg 1400w,https://cdn.webshopapp.com/shops/290919/files/459683299/1450x1450x3/hexa-header-w-text.jpg 1450w,https://cdn.webshopapp.com/shops/290919/files/459683299/1500x1500x3/hexa-header-w-text.jpg 1500w,https://cdn.webshopapp.com/shops/290919/files/459683299/1550x1550x3/hexa-header-w-text.jpg 1550w,https://cdn.webshopapp.com/shops/290919/files/459683299/1600x1600x3/hexa-header-w-text.jpg 1600w,https://cdn.webshopapp.com/shops/290919/files/459683299/1650x1650x3/hexa-header-w-text.jpg 1650w,https://cdn.webshopapp.com/shops/290919/files/459683299/1700x1700x3/hexa-header-w-text.jpg 1700w,https://cdn.webshopapp.com/shops/290919/files/459683299/1750x1750x3/hexa-header-w-text.jpg 1750w,https://cdn.webshopapp.com/shops/290919/files/459683299/1800x1800x3/hexa-header-w-text.jpg 1800w,https://cdn.webshopapp.com/shops/290919/files/459683299/1850x1850x3/hexa-header-w-text.jpg 1850w,https://cdn.webshopapp.com/shops/290919/files/459683299/1900x1900x3/hexa-header-w-text.jpg 1900w,https://cdn.webshopapp.com/shops/290919/files/459683299/1950x1950x3/hexa-header-w-text.jpg 1950w,https://cdn.webshopapp.com/shops/290919/files/459683299/2000x2000x3/hexa-header-w-text.jpg 2000w,https://cdn.webshopapp.com/shops/290919/files/459683299/original/hexa-header-w-text.jpg 2000w",
+        "sizes": "(min-width: 64rem) 700px, 100vw",
+        "alt": "FLUX HEXA",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": [
+        {
+          "label": "Buy HEXA now",
+          "href": "https://www.fluxlasers.com/products/hexa/",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Built for professionals",
+      "headingHtml": "Built for professionals",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">FLUX HEXA's 60&nbsp;W CO₂ laser cuts and engraves dozens of materials. Its bigger and deeper working area is designed specifically for <strong>professional production</strong>. <strong>High resolution</strong> combined with a <strong>faster engraving speed</strong> will make your laser cutting experience as smooth as possible.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683300/original/hexa-intro.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459683300/100x76x3/hexa-intro.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459683300/150x113x3/hexa-intro.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459683300/200x151x3/hexa-intro.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459683300/250x189x3/hexa-intro.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459683300/300x227x3/hexa-intro.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459683300/350x264x3/hexa-intro.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459683300/400x302x3/hexa-intro.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459683300/450x340x3/hexa-intro.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459683300/500x378x3/hexa-intro.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459683300/550x415x3/hexa-intro.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459683300/600x453x3/hexa-intro.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459683300/650x491x3/hexa-intro.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459683300/700x529x3/hexa-intro.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459683300/750x566x3/hexa-intro.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459683300/original/hexa-intro.jpg 768w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Ornamental plant in purple acrylic, laser cut by the FLUX HEXA.",
+        "width": "768",
+        "height": "580"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "33%larger working area",
+      "headingHtml": "<span class=\"text-hexa-gradient text-lg text-xxxl@md\">33%</span><br>larger working area",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">FLUX HEXA offers a working area of 73 x 41 x 12.5 cm, which is 33% larger than the Beambox Pro. The work area is also 40 mm deeper, allowing you to engrave larger objects. The HEXA laser cutter comes equipped with an improved steel honeycomb platform and cone spacers, enhancing its performance and versatility. <strong>Built for more capacity, more possibilities.</strong></p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683301/original/hexa-product.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459683301/100x70x3/hexa-product.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459683301/150x104x3/hexa-product.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459683301/200x139x3/hexa-product.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459683301/250x174x3/hexa-product.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459683301/300x209x3/hexa-product.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459683301/350x243x3/hexa-product.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459683301/400x278x3/hexa-product.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459683301/450x313x3/hexa-product.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459683301/500x348x3/hexa-product.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459683301/550x382x3/hexa-product.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459683301/600x417x3/hexa-product.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459683301/650x452x3/hexa-product.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459683301/700x487x3/hexa-product.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459683301/750x521x3/hexa-product.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459683301/800x556x3/hexa-product.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459683301/850x591x3/hexa-product.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459683301/900x626x3/hexa-product.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459683301/950x660x3/hexa-product.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459683301/1000x695x3/hexa-product.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459683301/1050x730x3/hexa-product.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459683301/1100x765x3/hexa-product.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459683301/1150x799x3/hexa-product.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459683301/1200x834x3/hexa-product.jpg 1200w,https://cdn.webshopapp.com/shops/290919/files/459683301/original/hexa-product.jpg 1200w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "FLUX HEXA in perspective with a purple gradient glow behind it.",
+        "width": "1200",
+        "height": "834"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "stats": [
+      {
+        "icon": "laser",
+        "value": "60 W",
+        "label": "CO₂ laser"
+      },
+      {
+        "icon": "workspace",
+        "value": "73 × 41 cm",
+        "label": "Work area"
+      },
+      {
+        "icon": "speed",
+        "value": "900 mm/s",
+        "label": "Max. speed"
+      },
+      {
+        "icon": "ruler",
+        "value": "0 - 10 mm",
+        "label": "Cutting thickness"
+      }
+    ]
+  },
+  {
+    "performance": {
+      "primaryHeadingHtml": "<span class=\"text-hexa-gradient text-lg text-xxxl@md\">900&nbsp;mm/s</span><br>high speed engraving",
+      "primaryBodyHtml": [
+        "<p class=\"margin-x-auto max-width-sm\">HEXA’s powerful Cortex M4 core chips let you engrave with a mind-blowing speed of 900&nbsp;mm/s. Its rapid-fire precision is a game-changer, allowing for swift and accurate engraving on a range of materials. This high-speed machine will become an indespensable ally, significantly reducing processing times and revolutionising the pace of your production.</p>"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683309/laser-hq.mp4",
+        "poster": "https://cdn.webshopapp.com/shops/290919/files/459683313/laser-hq-poster.jpg",
+        "alt": "Close-up of a laser engraving with the HEXA at speed."
+      },
+      "secondaryHeadingHtml": "<span class=\"text-hexa-gradient text-lg text-xxxl@md\">60&nbsp;W</span><br>powerful laser",
+      "secondaryBodyHtml": [
+        "<p class=\"padding-top-md\">Experience the cutting-edge 60 W CO₂ laser tube, equipped with a 38 mm optical focus lens. Effortlessly cut through thicker and denser materials at a faster cutting speed with this powerful laser. Speed up your turnaround times with consistent cutting and engraving quality across a range of materials.<br><br>With an impressive lifespan of 10,000 hours, this laser tube comes with a 1 year warranty.</p><h3><span class=\"text-hexa-gradient text-lg text-xxxl@md\">± 10 mm</span><br>cutting thickness</h3><p>With extraordinary laser efficiency and durability, FLUX HEXA perfectly cuts or engraves dozens of materials with its powerful CO₂ laser.</p>"
+      ]
+    }
+  },
+  {
+    "materials": [
+      {
+        "name": "Wood",
+        "details": [
+          "cutting: 10 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-wood.jpg"
+      },
+      {
+        "name": "Bamboo",
+        "details": [
+          "cutting: 10 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-bamboo.jpg"
+      },
+      {
+        "name": "Leather",
+        "details": [
+          "cutting: 8 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-leather.jpg"
+      },
+      {
+        "name": "Cardboard",
+        "details": [
+          "cutting: 10 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-cardboard.jpg"
+      },
+      {
+        "name": "Acrylic",
+        "details": [
+          "cutting: 10 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-acrylic.jpg"
+      },
+      {
+        "name": "Fabric",
+        "details": [
+          "cutting: 20 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-fabric.jpg"
+      },
+      {
+        "name": "Rubber",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-rubber.jpg"
+      },
+      {
+        "name": "Anodised Metal",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-anodised-metal.jpg"
+      },
+      {
+        "name": "Glass",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-glass.jpg"
+      },
+      {
+        "name": "Cement",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-cement.jpg"
+      },
+      {
+        "name": "Stone",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/hexa-stone.jpg"
+      },
+      {
+        "name": "Stainless Steel",
+        "details": [
+          "engraving",
+          "(with spray)"
+        ],
+        "image": "/images/diode/hexa-stainless-steel.jpg"
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Autofocuselectric elevation platform",
+      "headingHtml": "<span class=\"text-hexa-gradient text-lg text-xxxl@md\">Autofocus</span><br>electric elevation platform",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"margin-x-auto max-width-sm\">HEXA’s autofocus function will electronically lower or raise the honeycomb platform to make sure the laser is focused on your material. It can move the elevation platform up to 60 mm, depending on the size of the object you are working with.</p>"
+      ],
+      "image": null,
+      "position": "center"
+    }
+  },
+  {
+    "icon-grid": {
+      "type": "compatibility",
+      "title": "Maximum Compatibility",
+      "subtitle": "Beambox Supports Various File Formats<br>SVG / PNG / JPG / DXF / PDF / AI",
+      "icons": [
+        {
+          "name": "Adobe Illustrator",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_ai-150x150.png"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_PS-150x150.png"
+        },
+        {
+          "name": "Affinity Design",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Affinity-Design-150x150.png"
+        },
+        {
+          "name": "Autodesk AutoCAD",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_autocad-150x150.png"
+        },
+        {
+          "name": "SketchUp",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_sketchup-150x150.png"
+        },
+        {
+          "name": "SolidWorks",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_solidwork-150x150.png"
+        },
+        {
+          "name": "Sketch",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Sketch-150x150.png"
+        },
+        {
+          "name": "Corel Draw",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_coreldraw-150x150.png"
+        },
+        {
+          "name": "Rhinoceros",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Rhinoceros-150x150.png"
+        }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Hassle-free software & app",
+      "headingHtml": "Hassle-free software &amp; app",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Our free in-house software <a href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Beam Studio</a> provides a one-stop design experience for all FLUX laser cutter users.</p>",
+        "<p>Edit texts, vector files, bitmap images, align objects, and more for a seamless design experience.</p>",
+        "<a class='btn btn-secondary' href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Learn more about Beam Studio</a>"
+      ],
+      "image": {
+        "src": "/images/ador/beam-studio-devices.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Desktop computer, laptop and tablet showing Beam Studio",
+        "width": "904",
+        "height": "534"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Already using LightBurn?",
+      "headingHtml": "Already using LightBurn?",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">We have got you covered. If you are already using LightBurn to create and cut your projects, you can use our <strong>LightBurn bridge cable</strong> to connect and control your HEXA, including its add-ons. Unlock the full potential of your laser cutter inside LightBurn.</p><div class=\"product-detail__lightburn-cta\"><img src=\"https://cdn.webshopapp.com/shops/290919/files/460142370/lightburn-ico.png\" alt=\"LightBurn logo\" width=\"58\" height=\"58\" loading=\"lazy\" /><a class=\"btn btn-white\" href=\"https://www.fluxlasers.com/lightburn-cable.html\">Learn more about the LightBurn bridge cable</a></div>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/460142355/original/lightburn-hexa.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/460142355/100x71x3/lightburn-hexa.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/460142355/150x107x3/lightburn-hexa.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/460142355/200x143x3/lightburn-hexa.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/460142355/250x179x3/lightburn-hexa.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/460142355/300x214x3/lightburn-hexa.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/460142355/350x250x3/lightburn-hexa.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/460142355/400x286x3/lightburn-hexa.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/460142355/450x321x3/lightburn-hexa.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/460142355/500x357x3/lightburn-hexa.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/460142355/550x393x3/lightburn-hexa.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/460142355/600x429x3/lightburn-hexa.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/460142355/650x464x3/lightburn-hexa.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/460142355/700x500x3/lightburn-hexa.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/460142355/750x536x3/lightburn-hexa.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/460142355/800x571x3/lightburn-hexa.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/460142355/850x607x3/lightburn-hexa.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/460142355/900x643x3/lightburn-hexa.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/460142355/950x679x3/lightburn-hexa.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/460142355/1000x714x3/lightburn-hexa.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/460142355/1050x750x3/lightburn-hexa.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/460142355/1100x786x3/lightburn-hexa.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/460142355/1150x821x3/lightburn-hexa.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/460142355/original/lightburn-hexa.jpg 1176w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Two people working with LightBurn software on a FLUX HEXA.",
+        "width": "1176",
+        "height": "840"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Built-in cleaning slot",
+      "headingHtml": "Built-in cleaning slot",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">The HEXA laser cutter is equipped with a handy cleaning drawer. You won’t need to take out the honeycomb platform to clean up the machine after a cut. Simply pull the cleaning drawer out of your laser cutter, clean it up, and slide it back in.</p>",
+        "<p class=\"padding-top-md\">HEXA prioritises safety with its thoughtful design features. The machine is fully enclosed, and it automatically pauses if the lid is opened during a task. Additionally, there is a single switch for immediate machine shutdown in case of emergencies. HEXA is equipped with a Class 1 laser, which is completely safe under normal use.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683297/original/hexa-cleaning-slot.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459683297/100x71x3/hexa-cleaning-slot.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459683297/150x107x3/hexa-cleaning-slot.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459683297/200x143x3/hexa-cleaning-slot.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459683297/250x179x3/hexa-cleaning-slot.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459683297/300x214x3/hexa-cleaning-slot.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459683297/350x250x3/hexa-cleaning-slot.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459683297/400x286x3/hexa-cleaning-slot.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459683297/450x321x3/hexa-cleaning-slot.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459683297/500x357x3/hexa-cleaning-slot.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459683297/550x393x3/hexa-cleaning-slot.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459683297/600x429x3/hexa-cleaning-slot.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459683297/650x464x3/hexa-cleaning-slot.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459683297/700x500x3/hexa-cleaning-slot.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459683297/750x536x3/hexa-cleaning-slot.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459683297/800x571x3/hexa-cleaning-slot.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459683297/850x607x3/hexa-cleaning-slot.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459683297/900x643x3/hexa-cleaning-slot.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459683297/950x679x3/hexa-cleaning-slot.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459683297/1000x714x3/hexa-cleaning-slot.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459683297/1050x750x3/hexa-cleaning-slot.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459683297/1100x786x3/hexa-cleaning-slot.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459683297/1150x821x3/hexa-cleaning-slot.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459683297/original/hexa-cleaning-slot.jpg 1176w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Person seen from the side opening the cleaning slot on a FLUX HEXA, which is filled with cutting debris.",
+        "width": "1176",
+        "height": "840"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "media": {
+      "heading": "Safety is our priority",
+      "body": "HEXA prioritises safety with its thoughtful design features. The machine is fully enclosed, and it automatically pauses if the lid is opened during a task. Additionally, there is a single switch for immediate machine shutdown in case of emergencies. HEXA is equipped with a Class 1 laser, which is completely safe under normal use.",
+      "video": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459683302/hexa-safety.mp4",
+        "poster": "https://cdn.webshopapp.com/shops/290919/files/459683307/hexa-safety-poster.jpg",
+        "alt": "HEXA safety features demonstrated while the laser operates."
+      }
+    }
+  },
+  {
+    "connectivity": {
+      "heading": "Easy to connect",
+      "subheading": "Experience boundless connection choices.",
+      "icons": [
+        { "name": "Wi-Fi", "icon": "wifi" },
+        { "name": "Flash Drive", "icon": "flash-drive" },
+        { "name": "USB cable", "icon": "usb-cable" },
+        { "name": "Ethernet", "icon": "ethernet" },
+        { "name": "Mobile Devices", "icon": "mobile" }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Add-onsTake your HEXA to the next level",
+      "headingHtml": "<span class=\"text-hexa-gradient text-lg text-xxxl@md\">Add-ons</span><br>Take your HEXA to the next level",
+      "subheading": "Rotary 2.0 add-on",
+      "subheadingHtml": "Rotary 2.0 add-on",
+      "bodyHtml": [
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Increase the capabilities of your HEXA with the improved and easy-to-install Rotary 2.0 add-on. With this accessory, you can engrave drinkware and other cylindrical items made of glass, stainless steel, wood, and other materials with a maximum diameter of 115&nbsp;mm.</p>",
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Every detail matters. Engrave with a finer result than the standard focus lens and achieve high resolution engraving up to 1,000&nbsp;dpi. Engrave small details with ease.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684062/original/rotary.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684062/100x66x3/rotary.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459684062/150x99x3/rotary.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459684062/200x132x3/rotary.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459684062/250x165x3/rotary.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459684062/300x198x3/rotary.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459684062/350x231x3/rotary.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459684062/400x264x3/rotary.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459684062/450x297x3/rotary.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459684062/500x330x3/rotary.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459684062/550x363x3/rotary.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459684062/600x396x3/rotary.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459684062/650x429x3/rotary.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459684062/700x462x3/rotary.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459684062/750x495x3/rotary.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459684062/original/rotary.jpg 770w",
+        "sizes": "(min-width: 64rem) 100vw, 50vw",
+        "alt": "Wine glass with a strawberry cake design lying on the rotary add-on in a FLUX HEXA laser cutter.",
+        "width": "770",
+        "height": "508"
+      },
+      "position": "right"
+    }
+  }
+]

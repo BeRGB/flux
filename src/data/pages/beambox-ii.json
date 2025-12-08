@@ -1,0 +1,309 @@
+[
+  {
+    "hero": {
+      "title": "FLUX Beambox II",
+      "subtitle": "Upgraded to a 55 W CO₂ laser so you can cut 20 mm acrylic and 18 mm Japanese cypress with studio-grade precision.",
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/11/Banner_BBII-Launch.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Beambox II desktop laser cutter on a workbench.",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": [
+        {
+          "label": "Buy Beambox II now",
+          "href": "https://flux3dp.com/beambox-ii/",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "laser",
+        "title": "55 W CO₂ power",
+        "copy": "Slice through 20 mm acrylic or 18 mm Japanese cypress while keeping fine details sharp."
+      },
+      {
+        "icon": "speed",
+        "title": "900 mm/s engraving",
+        "copy": "Triple the throughput with smoother motion control for detailed patterns and production runs."
+      },
+      {
+        "icon": "workspace",
+        "title": "Expanded workspace",
+        "copy": "23.62\" × 14.76\" bed with up to 8.46\" of Z-height when you add the extension pocket."
+      }
+    ]
+  },
+  {
+    "stats": [
+      {
+        "icon": "laser",
+        "value": "55 W",
+        "label": "CO₂ laser"
+      },
+      {
+        "icon": "workspace",
+        "value": "600 × 375 mm",
+        "label": "Bed size"
+      },
+      {
+        "icon": "speed",
+        "value": "900 mm/s",
+        "label": "Max. engraving speed"
+      },
+      {
+        "icon": "ruler",
+        "value": "125 mm",
+        "label": "Work depth (215 mm with pocket)"
+      }
+    ]
+  },
+  {
+    "performance": {
+      "primaryHeadingHtml": "900&nbsp;mm/s engraving",
+      "primaryBodyHtml": [
+        "<p>With engraving speeds of up to 900 mm/s, Beambox II triples throughput while keeping curves smooth and details crisp for both intricate artwork and production runs.</p>"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_engraving-speed-1.mp4",
+        "poster": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_featured-image-1024x536.jpg",
+        "alt": "Beambox II engraving at high speed."
+      },
+      "secondaryHeadingHtml": "55&nbsp;W CO<sub>2</sub> laser upgrade",
+      "secondaryBodyHtml": [
+        "<p>Beambox II is upgraded to a 55 W CO₂ laser so you can cut 20 mm acrylic and 18 mm Japanese cypress without sacrificing precision.</p>",
+        "<p>Bring bold ideas to life and swap between delicate engraving and deep cuts on a single machine.</p>"
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Larger working area, expanded creative space",
+      "headingHtml": "Larger working area, expanded creative space",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Beambox II features a 23.62&quot; × 14.76&quot; work area and 4.92&quot; of Z-height, expandable to 8.46&quot; with the optional bottom tray. Stage larger panels or nest multiple jobs to finish more in a single run.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2025/02/BBII_workarea_US-1024x576.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2025/02/BBII_workarea_US-700x394.jpg 700w,https://flux3dp.com/wp-content/uploads/2025/02/BBII_workarea_US-768x432.jpg 768w,https://flux3dp.com/wp-content/uploads/2025/02/BBII_workarea_US-1024x576.jpg 1024w,https://flux3dp.com/wp-content/uploads/2025/02/BBII_workarea_US.jpg 1200w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Diagram of the Beambox II work area and Z-height options.",
+        "width": "1200",
+        "height": "675"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Extension pocket add-on. Unlock thicker possibilities.",
+      "headingHtml": "Extension pocket add-on. Unlock thicker possibilities.",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>The extension pocket add-on opens 15.16&quot; × 8.27&quot; of working room with an 8.46&quot; depth. It also supports the Chuck Rotary so you can engrave cylindrical or irregular objects just as easily.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_extension-base.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_extension-base-300x225.jpg 300w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_extension-base.jpg 600w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Beambox II extension pocket with rotary chuck in place.",
+        "width": "600",
+        "height": "450"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Passthrough, Beambox II makes it happen.",
+      "headingHtml": "Passthrough, Beambox II makes it happen.",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Front and rear passthrough panels let you feed longer materials straight through the machine. No more trimming stock—just slide, align, and keep cutting.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_passthrough-1024x576.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_passthrough-700x394.jpg 700w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_passthrough-768x432.jpg 768w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_passthrough-1024x576.jpg 1024w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_passthrough.jpg 1200w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "A long board passing through the Beambox II passthrough slot.",
+        "width": "1200",
+        "height": "675"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Beam Studio automations that save time",
+      "headingHtml": "Beam Studio automations that save time",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Auto Fit and Auto Arrange detect your material frame and one-click nest batches of small items.</p>",
+        "<p>Live camera preview and presets make it simple to drag, drop, and run without trial-and-error.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_BS_auto-fit-2-700x700.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2024/11/BBII_BS_auto-fit-2-500x500.jpg 500w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_BS_auto-fit-2-700x700.jpg 700w,https://flux3dp.com/wp-content/uploads/2024/11/BBII_BS_auto-fit-2.jpg 800w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Beam Studio showing auto-fit nesting on Beambox II.",
+        "width": "800",
+        "height": "800"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Wide-angle camera, LightBurn ready",
+      "headingHtml": "Wide-angle camera, LightBurn ready",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Seamlessly integrate with LightBurn’s camera preview system or keep designing in Beam Studio. The wide-angle camera gives accurate placement with a single tap, whichever software you prefer.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2025/03/BBII_Lightburn-1024x590.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2025/03/BBII_Lightburn-700x403.jpg 700w,https://flux3dp.com/wp-content/uploads/2025/03/BBII_Lightburn-768x443.jpg 768w,https://flux3dp.com/wp-content/uploads/2025/03/BBII_Lightburn-1024x590.jpg 1024w,https://flux3dp.com/wp-content/uploads/2025/03/BBII_Lightburn.jpg 1536w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Beambox II connected to LightBurn with camera preview.",
+        "width": "1536",
+        "height": "885"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Built-in safety for every workspace",
+      "headingHtml": "Built-in safety for every workspace",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Certified to CE, FCC, and FDA standards and compliant with IEC60825-1 plus SGS tested for extra assurance.</p>",
+        "<p>A full metal enclosure pauses jobs when the lid opens, a side emergency stop halts instantly, and seven flame sensors trigger alarms if heat is detected.</p>",
+        "<p>Pair with Beam Air Pro’s triple-layer filtration—pre-filter, HEPA, and activated carbon—to keep your studio air clean.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2025/01/BBII_enclosed-lid.jpg",
+        "srcset": "https://flux3dp.com/wp-content/uploads/2025/01/BBII_enclosed-lid-263x300.jpg 263w,https://flux3dp.com/wp-content/uploads/2025/01/BBII_enclosed-lid.jpg 700w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Beambox II with the lid closed showing the enclosed metal chassis.",
+        "width": "700",
+        "height": "800"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "materials": [
+      {
+        "name": "Wood",
+        "details": [
+          "cutting: up to 18 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "Bamboo",
+        "details": [
+          "cutting: 8 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-bamboo.jpg"
+      },
+      {
+        "name": "Leather",
+        "details": [
+          "cutting: 4 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-leather.jpg"
+      },
+      {
+        "name": "Cardboard",
+        "details": [
+          "cutting: 4.5 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-cardboard.jpg"
+      },
+      {
+        "name": "Acrylic",
+        "details": [
+          "cutting: up to 20 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-acrylic.jpg"
+      },
+      {
+        "name": "Fabric",
+        "details": [
+          "cutting: 18 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-fabric.jpg"
+      },
+      {
+        "name": "Rubber",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-rubber.jpg"
+      },
+      {
+        "name": "Anodised Metal",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-anodised-metal.jpg"
+      },
+      {
+        "name": "Glass",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-glass.jpg"
+      },
+      {
+        "name": "Cement",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-cement.jpg"
+      },
+      {
+        "name": "Stone",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-stone.jpg"
+      },
+      {
+        "name": "Stainless Steel",
+        "details": [
+          "engraving",
+          "(with spray)"
+        ],
+        "image": "/images/diode/beamo-stainless-steel.jpg"
+      }
+    ]
+  }
+]

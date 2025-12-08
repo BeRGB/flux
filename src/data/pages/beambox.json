@@ -1,0 +1,391 @@
+[
+  {
+    "hero": {
+      "title": "Beambox",
+      "subtitle": "The smart desktop laser cutter & engraver.",
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo2_FLUX-Laser.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 64rem) 700px, 100vw",
+        "alt": "FLUX Beambox desktop laser cutter",
+        "width": null,
+        "height": null
+      },
+      "background": {
+        "desktop": "https://flux3dp.com/wp-content/uploads/2021/03/demo2_FLUX-Laser-500x500.jpg"
+      },
+      "ctas": [
+        {
+          "label": "Buy Beambox",
+          "href": "https://aff.flux3dp.com",
+          "variant": "primary"
+        },
+        {
+          "label": "Schedule a demo",
+          "href": "https://flux3dp.com/book-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "workspace",
+        "title": "Desktop footprint, pro output",
+        "copy": "A 40 × 37.5 cm work area inside a compact chassis lets beambox live on any studio table without sacrificing capacity."
+      },
+      {
+        "icon": "camera",
+        "title": "Built-in HD preview",
+        "copy": "The onboard camera shows the entire bed so you can drag-and-drop artwork and place engravings with complete confidence."
+      },
+      {
+        "icon": "shield",
+        "title": "Safety-ready by design",
+        "copy": "Enclosed optics, integrated ventilation, and smart interlocks keep every run reliable for classrooms and busy shops."
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Free Your Inner Artist and Bring Your Ideas to Life.",
+      "headingHtml": "Free Your Inner Artist and Bring Your Ideas to Life.",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Beambox is a powerful laser cutter and engraver that lets you shape, cut, and engrave on materials like wood, leather, acrylic, and cardboard. Beambox meets all your expectations, and goes way beyond.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/07/Button_Beambox-scaled.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Beambox laser cutting colorful materials on a desk",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "From Your Biggest Ideas To Your Greatest Work",
+      "headingHtml": "From Your Biggest Ideas To Your Greatest Work",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Beambox offers a maximum work area of 40 × 37.5 cm (15.7” × 14.7”) and cuts up to 12 mm thick (varies by material). With our highly integrated Beam Studio software, your imagination is the only limit.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/beambox6_swtfwy_c_scalew_1030.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Large FLUX Beambox projects arranged on a table",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  },
+  {
+    "stats": [
+      { "icon": "laser", "value": "40 W", "label": "CO₂ laser" },
+      { "icon": "workspace", "value": "40 × 37.5 cm", "label": "Work area" },
+      { "icon": "speed", "value": "300 mm/s", "label": "Max. speed" },
+      { "icon": "ruler", "value": "Up to 12 mm", "label": "Cutting thickness" }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Friendly Software for All",
+      "headingHtml": "Friendly Software for All",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Beam Studio is the highly integrated software compatible with Windows, macOS, and Linux. Its intuitive interface gives you instant access to every Beambox control and supports JPG, PNG, SVG, DXF, and WEBP files.</p>",
+        "<p><a href=\"https://flux3dp.com/beam-studio/\" target=\"_blank\" rel=\"noreferrer\">Learn about Beam Studio</a></p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2024/08/Beam-Studio-Final-bento-2.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Beam Studio interface with multiple devices",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Intuitive and Ready to Use",
+      "headingHtml": "Intuitive and Ready to Use",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Control and monitor Beambox with the responsive touch panel, align artwork in seconds with the built-in camera preview, and rely on the compact water-cooling loop to keep production smooth.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo3_FLUX-Laser-500x500.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Close-up of the Beambox touch interface",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "What You See is What You Get",
+      "headingHtml": "What You See is What You Get",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>The built-in camera allows you to preview your design and the work area in real time so every engraving and cut lands exactly where you expect it.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo4_FLUX-Laser-500x500.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Camera preview of artwork aligned inside Beambox",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Premium Laser Performance",
+      "headingHtml": "Premium Laser Performance",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Equipped with premium-quality rails, Beambox delivers durability and repeatability job after job. Integrated ventilation keeps materials cool, prevents flare-ups, and removes smoke as you work.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo5_FLUX-Laser-500x500.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Beambox cutting thick material with clean edges",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Engrave and Cut Through a Versatile Range of Materials",
+      "headingHtml": "Engrave and Cut Through a Versatile Range of Materials",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Customize products in any unique shape or style. Expand your material list with rotary add-ons and accessories, unlocking rounded objects, treated metals, leather goods, acrylic signage, and more.</p>"
+      ],
+      "image": {
+        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo6_FLUX-Laser-500x500.jpg",
+        "srcset": null,
+        "sizes": "(min-width: 32rem) 100vw, 50vw",
+        "alt": "Array of Beambox creations made from mixed materials",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "icon-grid": {
+      "type": "compatibility",
+      "title": "Maximum Compatibility",
+      "subtitle": "Beambox Supports Various File Formats<br>SVG / PNG / JPG / DXF / PDF / AI",
+      "icons": [
+        {
+          "name": "Adobe Illustrator",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_ai-150x150.png"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_PS-150x150.png"
+        },
+        {
+          "name": "Affinity Design",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Affinity-Design-150x150.png"
+        },
+        {
+          "name": "Autodesk AutoCAD",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_autocad-150x150.png"
+        },
+        {
+          "name": "SketchUp",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_sketchup-150x150.png"
+        },
+        {
+          "name": "SolidWorks",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_solidwork-150x150.png"
+        },
+        {
+          "name": "Sketch",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Sketch-150x150.png"
+        },
+        {
+          "name": "Corel Draw",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_coreldraw-150x150.png"
+        },
+        {
+          "name": "Rhinoceros",
+          "image": "https://flux3dp.com/wp-content/uploads/2020/12/icon_Rhinoceros-150x150.png"
+        }
+      ]
+    }
+  },
+  {
+    "materials": [
+      {
+        "name": "Black Walnut (wood)",
+        "details": [
+          "Cutting: 10 mm (Beambox)",
+          "Cutting: 12 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "Cypress (wood)",
+        "details": [
+          "Cutting: 12 mm (Beambox)",
+          "Cutting: 14 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-bamboo.jpg"
+      },
+      {
+        "name": "Plywood (wood)",
+        "details": [
+          "Cutting: 10 mm (Beambox)",
+          "Cutting: 12 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "MDF (wood)",
+        "details": [
+          "Cutting: 6 mm (Beambox)",
+          "Cutting: 10 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "Acrylic",
+        "details": [
+          "Cutting: 12 mm (Beambox)",
+          "Cutting: 14 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-acrylic.jpg"
+      },
+      {
+        "name": "Cardboard",
+        "details": [
+          "Cutting: 8 mm (Beambox)",
+          "Cutting: 10 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-cardboard.jpg"
+      },
+      {
+        "name": "Leather",
+        "details": [
+          "Cutting: 5 mm (Beambox)",
+          "Cutting: 5 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-leather.jpg"
+      },
+      {
+        "name": "Fabric",
+        "details": [
+          "Cutting: 8 mm (Beambox)",
+          "Cutting: 8 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-fabric.jpg"
+      },
+      {
+        "name": "Bamboo",
+        "details": [
+          "Cutting: 5 mm (Beambox)",
+          "Cutting: 8 mm (Beambox Pro)",
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-bamboo.jpg"
+      },
+      {
+        "name": "Cork",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "Rubber",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-rubber.jpg"
+      },
+      {
+        "name": "Glass",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-glass.jpg"
+      },
+      {
+        "name": "Cement",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-cement.jpg"
+      },
+      {
+        "name": "Stone",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-stone.jpg"
+      },
+      {
+        "name": "Anodized metal",
+        "details": [
+          "Engraving"
+        ],
+        "image": "/images/diode/beamo-anodised-metal.jpg"
+      },
+      {
+        "name": "Stainless steel",
+        "details": [
+          "Engraving (spray required)"
+        ],
+        "image": "/images/diode/beamo-stainless-steel.jpg"
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Beambox specifications",
+      "headingHtml": "Beambox specifications",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<dl class=\"product-detail__specs\"><div class=\"product-detail__specs-row\"><dt>Dimensions</dt><dd>800 × 670 × 250 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>40 kg</dd></div><div class=\"product-detail__specs-row\"><dt>Work area</dt><dd>400 × 375 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Work area depth</dt><dd>80 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Camera preview</dt><dd>400 × 360 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Power</dt><dd>AC 110 V / 220 V</dd></div><div class=\"product-detail__specs-row\"><dt>Speed</dt><dd>1 – 300 mm/s</dd></div><div class=\"product-detail__specs-row\"><dt>Touch panel</dt><dd>1024 × 600 LCD</dd></div><div class=\"product-detail__specs-row\"><dt>Camera</dt><dd>HD CMOS</dd></div><div class=\"product-detail__specs-row\"><dt>I / O</dt><dd>Wi-Fi / Ethernet / Direct network cable</dd></div><div class=\"product-detail__specs-row\"><dt>Laser</dt><dd>40 W CO₂ laser</dd></div><div class=\"product-detail__specs-row\"><dt>Wavelength</dt><dd>10,640 nm</dd></div><div class=\"product-detail__specs-row\"><dt>Cutting thickness</dt><dd>0 – 12 mm (varies by material)</dd></div></dl>"
+      ],
+      "image":null,
+      "position": "left"
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "hero": {
+      "title": "FLUX Beam Air",
+      "subtitle": "Keep your air clean with a compact 4-layer filter made for FLUX lasers and other desktop cutters.",
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684615/original/beamair-header-w-text.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684615/700x700x3/beamair-header-w-text.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459684615/1200x1200x3/beamair-header-w-text.jpg 1200w,https://cdn.webshopapp.com/shops/290919/files/459684615/original/beamair-header-w-text.jpg 2000w",
+        "sizes": "(min-width: 64rem) 700px, 100vw",
+        "alt": "FLUX Beam Air air filter next to a FLUX laser.",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": [
+        {
+          "label": "Buy Beam Air now",
+          "href": "https://www.fluxlasers.com/products/beam-air/",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "shield",
+        "title": "4-layer filtration",
+        "copy": "Pre-filter, cotton, HEPA H13, and activated carbon capture particles and odours from engraving."
+      },
+      {
+        "icon": "speed",
+        "title": "Auto on/off sync",
+        "copy": "Connect via USB-B to start filtering when your FLUX laser starts and stop when the job ends."
+      },
+      {
+        "icon": "workspace",
+        "title": "Quiet & compact",
+        "copy": "47 × 26 × 49 cm footprint with wheels and adjustable airflow to dial in a calmer workspace."
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "4-layer filter for ultra-clean air",
+      "headingHtml": "4-layer filter for ultra-clean air",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Beam Air uses a highly effective 4-layer filtration stack and a high-intake motor to block harmful molecules and odours generated during laser cutting and engraving.</p>",
+        "<p>It’s easy to connect and ready to use in seconds—just attach the 10 cm hose and power it on.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684613/original/beamair-filters-no-text.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684613/500x598x3/beamair-filters-no-text.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459684613/700x837x3/beamair-filters-no-text.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459684613/original/beamair-filters-no-text.jpg 768w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Airflow through the four filters inside a FLUX Beam Air.",
+        "width": "768",
+        "height": "918"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Simple and quiet to live with",
+      "headingHtml": "Simple and quiet to live with",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Beam Air stays compact (47 × 26 × 49 cm) with wheels that make it easy to move around your studio.</p>",
+        "<p>The BLDC fan, auto-standby, and adjustable airflow keep noise low while maintaining clean exhaust.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684616/original/beamair-product.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684616/500x460x3/beamair-product.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459684616/800x735x3/beamair-product.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459684616/original/beamair-product.jpg 929w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "A FLUX Beam Air filter viewed in perspective.",
+        "width": "929",
+        "height": "854"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Convenient auto power-on and turn-off",
+      "headingHtml": "Convenient auto power-on and turn-off",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Connect Beam Air to your FLUX laser with a USB-B cable and it will switch on when your job starts and power down when it ends.</p>",
+        "<p>Keep filtration consistent without adding steps to your workflow.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684603/original/auto-off.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684603/700x500x3/auto-off.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459684603/1000x714x3/auto-off.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459684603/original/auto-off.jpg 1176w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "FLUX Beam Air connected to a laser cutter with a vent hose.",
+        "width": "1176",
+        "height": "840"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Adjustable ventilation makes a friendly workspace",
+      "headingHtml": "Adjustable ventilation makes a friendly workspace",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Use the top-mounted airflow knob to set the right ventilation for your material and reduce noise for a quieter studio.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684617/beamair-ventilation-poster.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Adjusting the airflow knob on Beam Air.",
+        "width": "1024",
+        "height": "682"
+      },
+      "media": {
+        "type": "video",
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684606/beamair-button.mp4",
+        "poster": "https://cdn.webshopapp.com/shops/290919/files/459684617/beamair-ventilation-poster.jpg",
+        "alt": "Adjusting the Beam Air ventilation knob."
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Compatible with other laser cutting machines",
+      "headingHtml": "Compatible with other laser cutting machines",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Beam Air works with any laser cutter that uses a 10 cm diameter air outlet and comes with hose adapters to make connecting easy.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/460161734/original/beamair-w-arrow.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/460161734/700x588x3/beamair-w-arrow.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/460161734/1000x840x3/beamair-w-arrow.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/460161734/original/beamair-w-arrow.jpg 1000w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Front view of Beam Air showing airflow direction.",
+        "width": "1000",
+        "height": "840"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Filtering the air",
+      "headingHtml": "Filtering the air",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"margin-x-auto max-width-md padding-top-md\">When working with various materials, Beam Air filters out dust and odours to keep your workspace safe. Performance depends on the material you’re cutting or engraving.</p>"
+      ],
+      "image": null,
+      "position": "center"
+    }
+  },
+  {
+    "materials": {
+      "title": "Dust removal",
+      "subtitle": "Beam Air captures dust and particles across common laser materials.",
+      "items": [
+        { "name": "Paper", "details": ["great"], "image": "/images/beam-air/paper.jpg" },
+        { "name": "Leather", "details": ["great"], "image": "/images/beam-air/leather.jpg" },
+        { "name": "Wood", "details": ["great"], "image": "/images/beam-air/wood.jpg" },
+        { "name": "Acrylic", "details": ["great"], "image": "/images/beam-air/acrylic.jpg" },
+        { "name": "MDF board", "details": ["great"], "image": "/images/beam-air/mdf.jpg" }
+      ]
+    }
+  },
+  {
+    "materials": {
+      "title": "Odour reduction",
+      "subtitle": "Odour filtering performance varies by material.",
+      "items": [
+        { "name": "Paper", "details": ["great"], "image": "/images/beam-air/paper.jpg" },
+        { "name": "Leather", "details": ["scent noticeable"], "image": "/images/beam-air/leather.jpg" },
+        { "name": "Wood", "details": ["good"], "image": "/images/beam-air/wood.jpg" },
+        { "name": "Acrylic", "details": ["scent noticeable"], "image": "/images/beam-air/acrylic.jpg" },
+        { "name": "MDF board", "details": ["good"], "image": "/images/beam-air/mdf.jpg" }
+      ]
+    }
+  },
+  {
+    "slalom": {
+      "heading": "4 layers to keep your air clean",
+      "headingHtml": "4 layers to keep your air clean",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Each Beam Air filter set includes:</p>",
+        "<ul class=\"grid gap-sm\">\n<li><strong>Pre-filter</strong> to catch large particles.</li>\n<li><strong>Medium filter</strong> and cotton filter for finer dust.</li>\n<li><strong>H13 HEPA filter</strong> to trap airborne particles.</li>\n<li><strong>Activated carbon filter</strong> to reduce odours.</li>\n</ul>",
+        "<p>Replace individual layers as needed to keep airflow strong and your space comfortable.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459684610/original/beamair-filters.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459684610/700x703x3/beamair-filters.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459684610/1000x1004x3/beamair-filters.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459684610/original/beamair-filters.jpg 1380w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Exploded view showing the four Beam Air filters and airflow.",
+        "width": "1380",
+        "height": "1386"
+      },
+      "position": "right"
+    }
+  }
+]

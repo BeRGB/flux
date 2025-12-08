@@ -1,0 +1,516 @@
+[
+  {
+    "hero": {
+      "title": "FLUX Beamo",
+      "subtitle": "The world’s smallest CO₂ laser cutter & engraver.",
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673826/original/beamo-header-w-text.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673826/100x100x3/beamo-header-w-text.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673826/150x150x3/beamo-header-w-text.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673826/200x200x3/beamo-header-w-text.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673826/250x250x3/beamo-header-w-text.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673826/300x300x3/beamo-header-w-text.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673826/350x350x3/beamo-header-w-text.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673826/400x400x3/beamo-header-w-text.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673826/450x450x3/beamo-header-w-text.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673826/500x500x3/beamo-header-w-text.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673826/550x550x3/beamo-header-w-text.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673826/600x600x3/beamo-header-w-text.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673826/650x650x3/beamo-header-w-text.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673826/700x700x3/beamo-header-w-text.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673826/750x750x3/beamo-header-w-text.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673826/800x800x3/beamo-header-w-text.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459673826/850x850x3/beamo-header-w-text.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459673826/900x900x3/beamo-header-w-text.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459673826/950x950x3/beamo-header-w-text.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459673826/1000x1000x3/beamo-header-w-text.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459673826/1050x1050x3/beamo-header-w-text.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459673826/1100x1100x3/beamo-header-w-text.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459673826/1150x1150x3/beamo-header-w-text.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459673826/1200x1200x3/beamo-header-w-text.jpg 1200w,https://cdn.webshopapp.com/shops/290919/files/459673826/1250x1250x3/beamo-header-w-text.jpg 1250w,https://cdn.webshopapp.com/shops/290919/files/459673826/1300x1300x3/beamo-header-w-text.jpg 1300w,https://cdn.webshopapp.com/shops/290919/files/459673826/1350x1350x3/beamo-header-w-text.jpg 1350w,https://cdn.webshopapp.com/shops/290919/files/459673826/1400x1400x3/beamo-header-w-text.jpg 1400w,https://cdn.webshopapp.com/shops/290919/files/459673826/1450x1450x3/beamo-header-w-text.jpg 1450w,https://cdn.webshopapp.com/shops/290919/files/459673826/1500x1500x3/beamo-header-w-text.jpg 1500w,https://cdn.webshopapp.com/shops/290919/files/459673826/1550x1550x3/beamo-header-w-text.jpg 1550w,https://cdn.webshopapp.com/shops/290919/files/459673826/1600x1600x3/beamo-header-w-text.jpg 1600w,https://cdn.webshopapp.com/shops/290919/files/459673826/1650x1650x3/beamo-header-w-text.jpg 1650w,https://cdn.webshopapp.com/shops/290919/files/459673826/1700x1700x3/beamo-header-w-text.jpg 1700w,https://cdn.webshopapp.com/shops/290919/files/459673826/1750x1750x3/beamo-header-w-text.jpg 1750w,https://cdn.webshopapp.com/shops/290919/files/459673826/1800x1800x3/beamo-header-w-text.jpg 1800w,https://cdn.webshopapp.com/shops/290919/files/459673826/1850x1850x3/beamo-header-w-text.jpg 1850w,https://cdn.webshopapp.com/shops/290919/files/459673826/1900x1900x3/beamo-header-w-text.jpg 1900w,https://cdn.webshopapp.com/shops/290919/files/459673826/1950x1950x3/beamo-header-w-text.jpg 1950w,https://cdn.webshopapp.com/shops/290919/files/459673826/2000x2000x3/beamo-header-w-text.jpg 2000w,https://cdn.webshopapp.com/shops/290919/files/459673826/original/beamo-header-w-text.jpg 2000w",
+        "sizes": "(min-width: 64rem) 700px, 100vw",
+        "alt": "FLUX Beamo",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": [
+        {
+          "label": "Buy Beamo now",
+          "href": "https://www.fluxlasers.com/products/beamo/",
+          "variant": "primary"
+        },
+        {
+          "label": "Book a demo",
+          "href": "https://www.fluxlasers.com/service/schedule-a-demo/",
+          "variant": "secondary"
+        }
+      ]
+    }
+  },
+  {
+    "highlight": [
+      {
+        "icon": "camera",
+        "title": "Built-in HD camera",
+        "copy": "Preview every project before you hit start. Beamo’s built-in camera and Beam Studio software let you position artwork exactly where you want it."
+      },
+      {
+        "icon": "shield",
+        "title": "Integrated safety",
+        "copy": "Lid sensors, emergency stop switch, and a closed-loop water cooling system keep every job safe and reliable for classrooms and studios alike."
+      },
+      {
+        "icon": "laser",
+        "title": "High-resolution laser",
+        "copy": "Engrave incredible details down to 0.05 mm with a 30 W CO₂ laser and a crisp 1,000 dpi resolution tailored for professional finishes."
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "Discover the power of Beamo",
+      "headingHtml": "Discover the power of Beamo",
+      "subheading": "Unlocking innovation with extraordinary features",
+      "subheadingHtml": "Unlocking innovation with extraordinary features",
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Beamo is a powerful and compact 30 W CO₂ desktop laser cutter that can <strong>cut and engrave a range of materials</strong> including metals. With its <strong>easy-to-use design, intuitive controls and features</strong>, you can create amazing things effortlessly. Beamo packs features found in professional industrial laser cutters, including <strong>integrated safety</strong>.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673827/original/beamo-intro.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673827/100x70x3/beamo-intro.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673827/150x105x3/beamo-intro.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673827/200x140x3/beamo-intro.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673827/250x175x3/beamo-intro.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673827/300x210x3/beamo-intro.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673827/350x245x3/beamo-intro.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673827/400x279x3/beamo-intro.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673827/450x314x3/beamo-intro.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673827/500x349x3/beamo-intro.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673827/550x384x3/beamo-intro.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673827/600x419x3/beamo-intro.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673827/650x454x3/beamo-intro.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673827/700x489x3/beamo-intro.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673827/750x524x3/beamo-intro.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673827/original/beamo-intro.jpg 770w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Wooden Ferris wheel model created with the FLUX Beamo laser cutter, featuring multiple cabins and a sturdy base.",
+        "width": "770",
+        "height": "538"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "The most precise compact CO₂ laser engraver",
+      "headingHtml": "The most precise compact CO₂ laser engraver",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Beamo's <strong>sleek, modern and compact design</strong> fits beautifully in any home, school or workshop space. It comes pre-assembled with a metal body and acrylic lid, measuring 61.5 x 44.5 x 17.7 cm.<br><br>Bring your designs to life with its <strong>30 W CO₂</strong> laser operating on a <strong>30 x 21 cm work area</strong>.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673828/original/beamo-product.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673828/100x64x3/beamo-product.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673828/150x96x3/beamo-product.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673828/200x128x3/beamo-product.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673828/250x160x3/beamo-product.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673828/300x192x3/beamo-product.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673828/350x225x3/beamo-product.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673828/400x257x3/beamo-product.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673828/450x289x3/beamo-product.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673828/500x321x3/beamo-product.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673828/550x353x3/beamo-product.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673828/600x385x3/beamo-product.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673828/650x417x3/beamo-product.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673828/700x449x3/beamo-product.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673828/750x481x3/beamo-product.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673828/800x513x3/beamo-product.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459673828/850x545x3/beamo-product.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459673828/900x577x3/beamo-product.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459673828/original/beamo-product.jpg 932w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "A closed FLUX Beamo in perspective.",
+        "width": "932",
+        "height": "598"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "stats": [
+      {
+        "icon": "laser",
+        "value": "30 W",
+        "label": "CO₂ laser"
+      },
+      {
+        "icon": "workspace",
+        "value": "30 × 21 cm",
+        "label": "Work area"
+      },
+      {
+        "icon": "speed",
+        "value": "300 mm/s",
+        "label": "Max. speed"
+      },
+      {
+        "icon": "ruler",
+        "value": "0 - 3 mm",
+        "label": "Cutting thickness"
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "User-friendly experience",
+      "headingHtml": "User-friendly experience",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"margin-x-auto max-width-sm padding-top-sm padding-bottom-xl\">Whether you’re a first time user or a more advanced professional, Beamo’s straightforward, intuitive ecosystem makes it easy and hassle-free to go from design to product.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Choose your material to cut or engrave</p>",
+        "<p>Use wood, acrylic, leather, fabric or even stone and cement.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Drag and drop your design</p>",
+        "<p>Design in your preferred graphics editor and import it into our user-friendly application. Or take a photo and upload it.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Engrave, cut or do both</p>",
+        "<p>Watch the magic happen and wait for your Beamo to finish the project.</p>",
+        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Project completed!</p>",
+        "<p>Time to show off, use, gift or even sell your creation.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673913/original/beamo-step-1.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673913/50x50x3/beamo-step-1.jpg 50w,https://cdn.webshopapp.com/shops/290919/files/459673913/75x75x3/beamo-step-1.jpg 75w,https://cdn.webshopapp.com/shops/290919/files/459673913/100x100x3/beamo-step-1.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673913/125x125x3/beamo-step-1.jpg 125w,https://cdn.webshopapp.com/shops/290919/files/459673913/150x150x3/beamo-step-1.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673913/175x175x3/beamo-step-1.jpg 175w,https://cdn.webshopapp.com/shops/290919/files/459673913/200x200x3/beamo-step-1.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673913/225x225x3/beamo-step-1.jpg 225w,https://cdn.webshopapp.com/shops/290919/files/459673913/250x250x3/beamo-step-1.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673913/275x275x3/beamo-step-1.jpg 275w,https://cdn.webshopapp.com/shops/290919/files/459673913/300x300x3/beamo-step-1.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673913/325x325x3/beamo-step-1.jpg 325w,https://cdn.webshopapp.com/shops/290919/files/459673913/350x350x3/beamo-step-1.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673913/375x375x3/beamo-step-1.jpg 375w,https://cdn.webshopapp.com/shops/290919/files/459673913/400x400x3/beamo-step-1.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673913/425x425x3/beamo-step-1.jpg 425w,https://cdn.webshopapp.com/shops/290919/files/459673913/450x450x3/beamo-step-1.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673913/475x475x3/beamo-step-1.jpg 475w,https://cdn.webshopapp.com/shops/290919/files/459673913/500x500x3/beamo-step-1.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673913/original/beamo-step-1.jpg 500w",
+        "sizes": "(min-width: 64rem) 400px, 200px",
+        "alt": "A circle of all the different colours and types of materials that are sold as FLUX materials.",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Safe for home and school",
+      "headingHtml": "Safe for home and school",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md\">Rest easy with Beamo’s thoughtful <strong>safety features</strong>, including a <strong>fully enclosed design and an auto-pause function</strong> to stop production at any time. Opening the lid automatically pauses the running task. <br><br>Equipped with a Class 1 laser, it is <strong>completely safe</strong> for everyday use.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673829/original/beamo-safety.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673829/100x71x3/beamo-safety.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673829/150x107x3/beamo-safety.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673829/200x143x3/beamo-safety.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673829/250x179x3/beamo-safety.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673829/300x214x3/beamo-safety.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673829/350x250x3/beamo-safety.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673829/400x286x3/beamo-safety.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673829/450x321x3/beamo-safety.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673829/500x357x3/beamo-safety.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673829/550x393x3/beamo-safety.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673829/600x429x3/beamo-safety.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673829/650x464x3/beamo-safety.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673829/700x500x3/beamo-safety.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673829/750x536x3/beamo-safety.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673829/800x571x3/beamo-safety.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459673829/850x607x3/beamo-safety.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459673829/900x643x3/beamo-safety.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459673829/950x679x3/beamo-safety.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459673829/1000x714x3/beamo-safety.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459673829/1050x750x3/beamo-safety.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459673829/1100x786x3/beamo-safety.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459673829/1150x821x3/beamo-safety.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459673829/original/beamo-safety.jpg 1176w",
+        "sizes": "(min-width:32rem) 100vw, 50vw",
+        "alt": "Hands of a child solving a tangram and a 3D horse on the side, both lasercut by FLUX Beamo.",
+        "width": "1176",
+        "height": "840"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Take your Beamo to the next level with add-ons",
+      "headingHtml": "Take your Beamo to the next level with add-ons",
+      "subheading": "Rotary add-on",
+      "subheadingHtml": "Rotary add-on",
+      "bodyHtml": [
+        "<p class=\"container max-width-xs padding-top-sm\">Beamo's add-on modules enable customisation of products in various shapes, styles, and materials, including steel and rounded objects. Ideal for small businesses.</p>",
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Expand your Beamo’s potential with the easy-to-install rotary add-on. This accessory lets you engrave curved objects like glassware and bottles. The rotary module spins the workpiece while the laser engraver is working.</p>",
+        "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Beamo doesn't require any prior laser experience; the autofocus attachment will adjust to your materials as needed. Enjoy reliable cutting, even with thicker materials. </p>"
+      ],
+      "image": null,
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Get inspired with Beamo",
+      "headingHtml": "Get inspired with Beamo",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p class=\"padding-top-md padding-bottom-xl\">With Beamo you can design personalised gifts, craft projects, home decor, jewellery, custom packaging, tags, educational materials and so much more... The only limit is your imagination!</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459674446/original/beamo-ferriswheel-3d-puzzle.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459674446/50x50x3/beamo-ferriswheel-3d-puzzle.jpg 50w,https://cdn.webshopapp.com/shops/290919/files/459674446/150x151x3/beamo-ferriswheel-3d-puzzle.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459674446/250x251x3/beamo-ferriswheel-3d-puzzle.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459674446/350x352x3/beamo-ferriswheel-3d-puzzle.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459674446/450x452x3/beamo-ferriswheel-3d-puzzle.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459674446/550x553x3/beamo-ferriswheel-3d-puzzle.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459674446/650x653x3/beamo-ferriswheel-3d-puzzle.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459674446/750x754x3/beamo-ferriswheel-3d-puzzle.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459674446/850x854x3/beamo-ferriswheel-3d-puzzle.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459674446/950x955x3/beamo-ferriswheel-3d-puzzle.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459674446/1050x1055x3/beamo-ferriswheel-3d-puzzle.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459674446/1150x1156x3/beamo-ferriswheel-3d-puzzle.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459674446/original/beamo-ferriswheel-3d-puzzle.jpg 1170w",
+        "sizes": "100vw, (min-width: 48rem) 50vw",
+        "alt": "Wooden Ferris wheel model created with the FLUX Beamo laser cutter, featuring multiple cabins and a sturdy base.",
+        "width": "1170",
+        "height": "1176"
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Craft your imagination",
+      "headingHtml": "Craft your imagination",
+      "subheading": "Small and large businesses",
+      "subheadingHtml": "Small and large businesses",
+      "bodyHtml": [
+        "<p class=\"text-center max-width-sm margin-x-auto padding-bottom-lg padding-top-sm\">Whether you are a hobbyist, educator, small business owner or part of a larger enterprise: discover the unparalleled versatility to bring your designs to life.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Streamline your manufacturing processes and create eye-catching products that will last.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Elevate your creative skills with the help of a Beamo laser cutter &amp; engraver.</p>",
+        "<p class=\"font-bold padding-top-md\" style=\"text-shadow:0 2px 2px rgba(0,0,0,.45)\">Inspire children's creativity and bring their ideas to life with Beamo’s laser cutting and engraving experience.</p>"
+      ],
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459673656/original/users-1.jpg",
+        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673656/100x141x3/users-1.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673656/150x211x3/users-1.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673656/200x281x3/users-1.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673656/250x352x3/users-1.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673656/300x422x3/users-1.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673656/350x492x3/users-1.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673656/400x563x3/users-1.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673656/450x633x3/users-1.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673656/500x703x3/users-1.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673656/550x773x3/users-1.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673656/600x844x3/users-1.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673656/650x914x3/users-1.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673656/700x984x3/users-1.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673656/750x1055x3/users-1.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673656/original/users-1.jpg 768w",
+        "sizes": "(min-width:64rem) 33vw,100vw",
+        "alt": "A happy business woman on the phone with in the background some FLUX Ador examples.",
+        "width": "768",
+        "height": "1080"
+      },
+      "position": "left"
+    }
+  },
+  {
+    "workflow": {
+      "heading": "User-friendly experience",
+      "description": "Whether you're a first time user or a more advanced professional, Beamo’s straightforward, intuitive ecosystem makes it easy and hassle-free to go from design to product.",
+      "steps": [
+        {
+          "title": "Choose your material to cut or engrave",
+          "description": "Use wood, acrylic, leather, fabric or even stone and cement.",
+          "media": {
+            "type": "image",
+            "src": "/images/workflow/beamo-choose-your-material.jpg",
+            "alt": "Fan of colourful material samples arranged in a circle.",
+            "width": null,
+            "height": null
+          }
+        },
+        {
+          "title": "Drag and drop your design",
+          "description": "Design in your preferred graphics editor and import it into our user-friendly application. Or take a photo and upload it.",
+          "media": {
+            "type": "image",
+            "src": "/images/workflow/beamo-drag-and-drop-your-design.jpg",
+            "alt": "Beam Studio open on an iMac with a sloth illustration on screen.",
+            "width": null,
+            "height": null
+          }
+        },
+        {
+          "title": "Engrave, cut or do both",
+          "description": "Watch the magic happen and wait for your Beamo to finish the project.",
+          "media": {
+            "type": "video",
+            "src": "/videos/workflow/beamo-engrave-cut.mp4",
+            "poster": "/images/workflow/beamo-engrave-cut-poster.jpg",
+            "alt": "Close-up of Beamo engraving a sloth illustration on wood.",
+            "width": null,
+            "height": null
+          }
+        },
+        {
+          "title": "Project completed!",
+          "description": "Time to show off, use, gift or even sell your creation.",
+          "media": {
+            "type": "video",
+            "src": "/videos/workflow/beamo-project-completed.mp4",
+            "poster": "/images/workflow/beamo-project-completed-poster.jpg",
+            "alt": "Finished engraved sloth design being lifted from the machine.",
+            "width": null,
+            "height": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "media": {
+      "heading": "Make any material your canvas",
+      "body": "Customise a wide range of products in any unique shape or style. Beamo laser cutter add-on accessories offer additional configurations and material options. This includes steel and rounded objects, making it ideal for your small business needs.",
+      "video": {
+        "src": "/videos/beamo-materials.mp4",
+        "poster": "/images/beamo-materials-poster.jpg",
+        "alt": "Beamo laser engraving a “Love” lettering on a piece of leather."
+      }
+    }
+  },
+  {
+    "materials": [
+      {
+        "name": "Wood",
+        "details": [
+          "cutting: 3 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-wood.jpg"
+      },
+      {
+        "name": "Bamboo",
+        "details": [
+          "cutting: 3 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-bamboo.jpg"
+      },
+      {
+        "name": "Leather",
+        "details": [
+          "cutting: 1 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-leather.jpg"
+      },
+      {
+        "name": "Cardboard",
+        "details": [
+          "cutting: 2 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-cardboard.jpg"
+      },
+      {
+        "name": "Acrylic",
+        "details": [
+          "cutting: 3 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-acrylic.jpg"
+      },
+      {
+        "name": "Fabric",
+        "details": [
+          "cutting: 9 mm",
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-fabric.jpg"
+      },
+      {
+        "name": "Rubber",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-rubber.jpg"
+      },
+      {
+        "name": "Anodised Metal",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-anodised-metal.jpg"
+      },
+      {
+        "name": "Glass",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-glass.jpg"
+      },
+      {
+        "name": "Cement",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-cement.jpg"
+      },
+      {
+        "name": "Stone",
+        "details": [
+          "engraving"
+        ],
+        "image": "/images/diode/beamo-stone.jpg"
+      },
+      {
+        "name": "Stainless Steel",
+        "details": [
+          "engraving",
+          "(with spray)"
+        ],
+        "image": "/images/diode/beamo-stainless-steel.jpg"
+      }
+    ]
+  },
+  {
+    "slalom": {
+      "heading": "HD camera preview",
+      "headingHtml": "HD camera preview",
+      "subheading": "What you see is what you make",
+      "subheadingHtml": "What you see is what you make",
+      "bodyHtml": [
+        "<p>Say goodbye to guesswork. Simply take a snapshot before you print. The <strong>built-in HD camera</strong> allows you to preview your design on any material. This makes cutting and engraving a breeze. Use our <a href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Beam Studio</a> software to preview the work area and position your design exactly where you want it.</p>"
+      ],
+      "image": null,
+      "media": {
+        "type": "video",
+        "src": "/videos/beamo/hd-camera-preview.mp4",
+        "poster": "/images/beamo/hd-camera-preview-poster.jpg",
+        "alt": "Beam Studio showing a live preview of Beamo’s work area."
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Design with familiar tools",
+      "headingHtml": "Design with familiar tools",
+      "subheading": "SVG / PNG / JPG / DXF / PDF / AI",
+      "subheadingHtml": "SVG / PNG / JPG / DXF / PDF / AI",
+      "bodyHtml": [
+        "<p>Beamo is compatible with JPG, PNG, SVG, and DXF files, so just use the design software that is best for you. Adobe Illustrator, Adobe Photoshop, AutoCAD, CorelDraw, Inkscape, Sketch, even Microsoft Word!</p>"
+      ],
+      "image": {
+        "src": "/images/beamo/file-compatibility.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Grid of creative software logos that work with Beam Studio.",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Hassle-free software & app",
+      "headingHtml": "Hassle-free software &amp; app",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Our free in-house software <a href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Beam Studio</a> provides a one-stop design experience for all FLUX laser cutter users.</p>",
+        "<p>Edit texts, vector files, bitmap images, align objects, and more for a seamless design experience.</p>",
+        "<p><a class='btn btn-secondary' href='https://www.fluxlasers.com/beam-studio/' target='_blank' rel='noreferrer'>Learn more about Beam Studio</a></p>"
+      ],
+      "image": {
+        "src": "/images/beamo/beam-studio-devices.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Beam Studio interface shown across desktop, tablet, and mobile devices.",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Already using LightBurn?",
+      "headingHtml": "Already using LightBurn?",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>We have got you covered. If you are already using LightBurn to create and cut your projects, you can use our <strong>LightBurn bridge cable</strong> to connect and control your Beamo, including its add-ons. Unlock the full potential of your laser cutter inside LightBurn.</p>",
+        "<div class=\"product-detail__lightburn-cta\">\n\t\t\t<img src=\"/images/ador/lightburn-icon.png\" alt=\"LightBurn logo\" width=\"58\" height=\"58\" loading=\"lazy\" />\n\t\t\t<a class=\"btn btn-secondary\" href=\"https://www.fluxlasers.com/lightburn-cable.html\" target=\"_blank\" rel=\"noreferrer\">Learn more about the LightBurn bridge cable</a>\n\t\t</div>"
+      ],
+      "image": {
+        "src": "/images/beamo/lightburn-beamo.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "LightBurn running on a laptop next to a Beamo on a wooden desk.",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Easy to connect with Wi-Fi",
+      "headingHtml": "Easy to connect with Wi-Fi",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>With Beamo’s Wi-Fi connection, you’re in control no matter where you are. Change settings, transfer files and keep an eye on your projects with ease. When you download Beam Studio, you can transition from drawing or uploading a photo to cutting or engraving almost instantly.</p>",
+        "<div class=\"product-wifi-icons\">\n\t\t<div>\n\t\t\t<svg viewBox=\"0 0 64 64\" aria-hidden=\"true\"><g fill=\"currentColor\"><path d=\"M30.73 41.053a6.666 6.666 0 1 0 0 13.333 6.666 6.666 0 0 0 0-13.333zm0 1.334a5.333 5.333 0 1 1 0 10.667 5.333 5.333 0 0 1 0-10.667zm-29.13-22.239a2.101 2.101 0 0 0 .032 2.972l.004.005 5.064 4.915a2.074 2.074 0 0 0 2.893-.007 30.932 30.932 0 0 1 42.757.022l.187.157a2.093 2.093 0 0 0 2.675-.16l5.466-5.26a2.075 2.075 0 0 0 .11-2.784l-.146-.157a42.305 42.305 0 0 0 -58.498-.22l-.544.517zm58.117.663a.74.74 0 0 1 .095.944l-.1.117-5.424 5.219a.734.734 0 0 1 -.915.082l-.1-.08a32.268 32.268 0 0 0 -44.613-.013.74.74 0 0 1 -1.03.003l-5.065-4.915a.766.766 0 0 1 -.104-.976l.096-.116a40.988 40.988 0 0 1 57.16-.265z\"></path><path d=\"M13.172 32.795a2.006 2.006 0 0 0 -.011 2.837l.004.004 4.499 4.499a1.84 1.84 0 0 0 2.585.019 15.634 15.634 0 0 1 21.263-.15l.2.159a2.155 2.155 0 0 0 2.741-.224l4.39-4.39a1.907 1.907 0 0 0 .1-2.551l-.142-.155a25.848 25.848 0 0 0 -35.224-.427zm34.708 1.013a.573.573 0 0 1 .081.718l-.076.096-4.376 4.374a.795.795 0 0 1 -.987.11l-.11-.086a16.972 16.972 0 0 0 -23.094.176.507.507 0 0 1 -.712-.004l-4.498-4.498a.67.67 0 0 1 -.078-.856l.091-.107a24.513 24.513 0 0 1 33.759.077z\"></path></g></svg>\n\t\t\t<span>Wi-Fi</span>\n\t\t</div>\n\t\t<div>\n\t\t\t<svg viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M42.197 22.147V8.444a2.667 2.667 0 0 0-2.666-2.667H24.864a2.667 2.667 0 0 0-2.667 2.667v13.703a2.655 2.655 0 0 0-1.333 2.297v32a2.667 2.667 0 0 0 2.667 2.667h17.333a2.667 2.667 0 0 0 2.667-2.667v-32a2.654 2.654 0 0 0-1.334-2.297ZM23.531 8.444a1.334 1.334 0 0 1 1.333-1.333h14.667a1.333 1.333 0 0 1 1.333 1.333v13.333H23.531V8.444Zm18.666 48a1.333 1.333 0 0 1-1.333 1.333H23.531a1.333 1.333 0 0 1-1.334-1.333v-32a1.333 1.333 0 0 1 1.334-1.333h17.333a1.333 1.333 0 0 1 1.333 1.333v32Z\"></path></svg>\n\t\t\t<span>Flash drive</span>\n\t\t</div>\n\t\t<div>\n\t\t\t<svg viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M48.521 4.444H15.188a6.667 6.667 0 0 0-6.667 6.667v41.778a6.667 6.667 0 0 0 6.667 6.667H48.52a6.667 6.667 0 0 0 6.667-6.667V11.111a6.667 6.667 0 0 0-6.667-6.667Zm-34 2.666H48.52a4 4 0 0 1 4 4v33.333H10.521V11.11a4 4 0 0 1 4-4Zm34 46.224H15.188a4.001 4.001 0 0 1-3.929-3.223h41.191a4.001 4.001 0 0 1-3.93 3.223Z\"></path></svg>\n\t\t\t<span>Ethernet</span>\n\t\t</div>\n\t\t<div>\n\t\t\t<svg viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M22.937 3.556h18.667a4 4 0 0 1 4 4V56.11a4 4 0 0 1-4 4H22.937a4 4 0 0 1-4-4V7.556a4 4 0 0 1 4-4Zm0 2.667a1.333 1.333 0 0 0-1.333 1.333V52.11h21.333V7.556a1.333 1.333 0 0 0-1.333-1.333H22.937ZM32.27 58.777a2.222 2.222 0 1 0 0 4.444 2.222 2.222 0 0 0 0-4.444Z\"></path></svg>\n\t\t\t<span>Mobile devices</span>\n\t\t</div>\n\t</div>"
+      ],
+      "image": null,
+      "position": "center"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Safe for home and school",
+      "headingHtml": "Safe for home and school",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Rest easy with Beamo’s thoughtful safety features, including a fully enclosed design and auto-pause functions to stop production at any time. Opening the lid automatically pauses the running task.</p>",
+        "<p>Equipped with a Class 1 laser, it is completely safe for everyday use.</p>"
+      ],
+      "image": {
+        "src": "/images/beamo/beamo-safety.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Children playing with laser-cut wooden toys created on Beamo.",
+        "width": null,
+        "height": null
+      },
+      "position": "left"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "The world’s smallest CO₂ laser cutter & engraver",
+      "headingHtml": "The world’s smallest CO₂ laser cutter &amp; engraver",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<p>Meet the compact workhorse that fits in your studio yet delivers pro-grade performance.</p>",
+        "<p><a class='btn btn-primary' href='https://www.fluxlasers.com/products/beamo/' target='_blank' rel='noreferrer'>Buy Beamo now</a></p>"
+      ],
+      "image": {
+        "src": "/images/beamo/beamo-worlds-smallest.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Front view of the FLUX Beamo with accent graphics.",
+        "width": null,
+        "height": null
+      },
+      "position": "right"
+    }
+  }
+]

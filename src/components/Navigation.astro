@@ -1,0 +1,159 @@
+---
+import { productCategories } from '../data/productCategories';
+
+const primaryLinks = [
+	{ label: 'Home', href: '/' },
+	{ label: 'About', href: '/about' },
+	{ label: 'Contact', href: '#contact' },
+];
+
+const [homeLink, ...tailLinks] = primaryLinks;
+---
+
+<div class="site-nav__wrapper">
+	<div class="site-nav__bar">
+		<div class="page-container">
+			<div class="site-nav">
+				<a class="site-nav__brand" href="/">
+					<span class="site-nav__logo" aria-hidden="true">
+						<div class="site-nav__logo-glyph" />
+					</span>
+					<span class="site-nav__brand-text">
+						FLUX <span>Serbia</span>
+					</span>
+				</a>
+
+				<nav class="site-nav__menu" aria-label="Main navigation">
+					<a class="site-nav__link" href={homeLink.href}>
+						{homeLink.label}
+					</a>
+
+					<div class="site-nav__item site-nav__item--dropdown">
+						<a class="site-nav__link site-nav__link--trigger" href="/products">
+							Products
+							<span class="site-nav__caret" aria-hidden="true" />
+						</a>
+				<div class="site-nav__dropdown">
+					<div class="site-nav__dropdown-inner">
+						<div class="site-nav__dropdown-grid">
+							{productCategories.map((product) => (
+								<a class="site-nav__dropdown-card" href={product.href}>
+									<div class="site-nav__dropdown-thumb" aria-hidden="true">
+										<img src={product.image} alt="" loading="lazy" />
+									</div>
+									<div class="site-nav__dropdown-body">
+										<span class="site-nav__dropdown-name">{product.name}</span>
+										<p class="site-nav__dropdown-description">{product.description}</p>
+									</div>
+								</a>
+							))}
+						</div>
+					</div>
+				</div>
+					</div>
+
+					{tailLinks.map((link) => (
+						<a class="site-nav__link" href={link.href}>
+							{link.label}
+						</a>
+					))}
+				</nav>
+
+				<details class="site-nav__mobile-toggle">
+					<summary class="site-nav__toggle" aria-label="Toggle navigation">
+						<span class="site-nav__toggle-bar" />
+						<span class="site-nav__toggle-bar" />
+						<span class="site-nav__toggle-bar" />
+					</summary>
+					<div class="site-nav__mobile" role="dialog" aria-modal="true">
+						<div class="site-nav__mobile-header">
+							<a class="site-nav__brand" href={homeLink.href}>
+								<span class="site-nav__logo" aria-hidden="true">
+									<div class="site-nav__logo-glyph" />
+								</span>
+								<span class="site-nav__brand-text">
+									FLUX <span>Serbia</span>
+								</span>
+							</a>
+							<a class="site-nav__icon-btn" href="https://www.fluxlasers.com/cart/" aria-label="View cart">
+								<svg class="site-nav__icon" viewBox="0 0 24 24" aria-hidden="true">
+									<path
+										fill="currentColor"
+										d="M8.5 20a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm8 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3ZM4 4h-1V2h2.6l1 2H21l-2.3 9H8l-.7 3H20v2H6.4l1.2-5H5.1Z"
+									/>
+								</svg>
+							</a>
+						</div>
+						<div class="site-nav__mobile-body">
+							<nav class="site-nav__mobile-nav">
+								<a class="site-nav__mobile-heading" href={homeLink.href}>
+									{homeLink.label}
+								</a>
+
+								<details class="site-nav__mobile-section" open>
+									<summary>
+										Products
+										<span class="site-nav__caret" aria-hidden="true" />
+									</summary>
+									<div class="site-nav__mobile-list">
+										<a class="site-nav__mobile-link site-nav__mobile-link--accent" href="/products">
+											All Products
+										</a>
+										{productCategories.map((product) => (
+											<a class="site-nav__mobile-link" href={product.href}>
+												{product.name}
+											</a>
+										))}
+									</div>
+								</details>
+
+								{tailLinks.map((link) => (
+									<a class="site-nav__mobile-heading" href={link.href}>
+										{link.label}
+									</a>
+								))}
+							</nav>
+
+							<div class="site-nav__mobile-footer">
+								<a href="https://www.fluxlasers.com/account/login">Sign up / Log in</a>
+							</div>
+						</div>
+					</div>
+				</details>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script is:inline>
+	const scrollToFooter = (event) => {
+		const footer = document.getElementById('contact');
+
+		if (!footer) return;
+
+		event.preventDefault();
+
+		const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+		footer.scrollIntoView({ behavior: prefersReducedMotion ? 'auto' : 'smooth', block: 'start' });
+
+		const mobileToggle = document.querySelector('.site-nav__mobile-toggle');
+
+		if (mobileToggle instanceof HTMLDetailsElement) {
+			mobileToggle.open = false;
+		}
+	};
+
+	const initContactLinks = () => {
+		const contactLinks = document.querySelectorAll('a[href="#contact"]');
+
+		contactLinks.forEach((link) => {
+			link.addEventListener('click', scrollToFooter);
+		});
+	};
+
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', initContactLinks, { once: true });
+	} else {
+		initContactLinks();
+	}
+</script>

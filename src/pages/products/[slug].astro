@@ -1,0 +1,40 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Navigation from '../../components/Navigation.astro';
+import Footer from '../../components/Footer';
+import ProductDetailPage from '../../components/products/ProductDetailPage';
+import { productCategories } from '../../data/productCategories';
+import { productBlocks } from '../../data/pageContent';
+import type { ProductHero } from '../../data/pageTypes';
+
+export const getStaticPaths = async () => {
+	return productCategories.map((product) => ({
+		params: { slug: product.slug },
+		props: {
+			slug: product.slug,
+		},
+	}));
+};
+
+const slug = Astro.props.slug ?? Astro.params.slug;
+
+const product = productCategories.find((item) => item.slug === slug);
+
+if (!product) {
+	throw new Error(`Product not found for slug: ${slug}`);
+}
+
+const blocks = productBlocks[slug] ?? [];
+
+const heroBlock = blocks.find((block) => 'hero' in block)?.hero as ProductHero | undefined;
+const pageTitle = `${heroBlock?.title ?? product.name} — FLUX Serbia`;
+const pageDescription = heroBlock?.subtitle || product.description;
+---
+
+<Layout title={pageTitle} description={pageDescription}>
+	<Navigation />
+	<main class="page-main">
+		<ProductDetailPage product={product} blocks={blocks} />
+	</main>
+	<Footer />
+</Layout>

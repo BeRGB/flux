@@ -1,0 +1,18 @@
+[
+  {
+    "hero": {
+      "title": "Materials",
+      "subtitle": "Filter:",
+      "image": {
+        "src": "https://cdn.webshopapp.com/shops/290919/files/459737673/image.jpg",
+        "srcset": null,
+        "sizes": null,
+        "alt": "Wood",
+        "width": null,
+        "height": null
+      },
+      "background": {},
+      "ctas": []
+    }
+  }
+]
