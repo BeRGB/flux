@@ -22,8 +22,9 @@ export type ProductHero = {
 	title: string;
 	subtitle: string;
 	background: { mobile?: string; desktop?: string };
-	ctas: { label: string; href: string | null; variant: 'primary' | 'secondary' }[];
+	ctas: { label: string; href: string | null; variant: 'primary' | 'secondary'; target?: string | null }[];
 	image: ProductImage | null;
+	darkMode?: boolean;
 };
 
 export type HighlightIcon = 'camera' | 'laser' | 'workspace' | 'shield' | 'speed' | 'ruler';

@@ -27,6 +27,7 @@ const Footer: FC = () => {
 							<p>Rešenja za lasersko sečenje i graviranje osmišljena da prate brzinu vaše mašte.</p>
 						</div>
 						<div className="site-footer__grid">
+							{/*}
 							<div>
 								<h3 className="site-footer__column-heading">Brzi linkovi</h3>
 								<ul className="site-footer__link-list">
@@ -37,24 +38,21 @@ const Footer: FC = () => {
 									))}
 								</ul>
 							</div>
-							<div>
-								<h3 className="site-footer__column-heading">Upoznajte distributere</h3>
-								<p>
-									Gotovo 100 lokalnih partnera nudi demonstracije, obuku i podršku na vašem jeziku.{' '}
-									<a href="https://www.fluxlasers.com/service/resellers/">Otkrijte distributere</a>
-								</p>
-							</div>
+							*/}
 							<div>
 								<h3 className="site-footer__column-heading">Pišite nam</h3>
 								<p>
-									<a href="mailto:hello@fluxlasers.com">hello@fluxlasers.com</a>
-									<br />
-									Taipei · Eindhoven · Austin
+									<a href="mailto:office@laserskisistemi.rs">office@laserskisistemi.rs</a>
+									
+									<br></br>
+									<span>Telefon: +381 65 208 9755</span>
+									
 								</p>
 							</div>
 						</div>
 					</div>
 					<div className="site-footer__secondary">
+						{/*}
 						<ul className="site-footer__social">
 							{socialLinks.map((social) => (
 								<li key={social.label}>
@@ -62,6 +60,8 @@ const Footer: FC = () => {
 								</li>
 							))}
 						</ul>
+						}*/}
+						
 						<p className="site-footer__copyright">© {new Date().getFullYear()} FLUX Serbia. Sva prava zadržana.</p>
 					</div>
 				</div>

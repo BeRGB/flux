@@ -1116,6 +1116,11 @@
 	color: #ffffff;
 }
 
+.product-detail__hero--light {
+	background-color: #f5f6fb;
+	color: #0b0f19;
+}
+
 .product-detail__hero-content {
 	width: min(100%, 1280px);
 	margin-inline: auto;
@@ -1154,6 +1159,14 @@
 	margin: 0;
 	color: rgba(255, 255, 255, 0.85);
 	font-size: clamp(1.05rem, 2.4vw, 1.2rem);
+}
+
+.product-detail__hero--light .product-detail__hero-text h1 {
+	color: #0b0f19;
+}
+
+.product-detail__hero--light .product-detail__hero-text p {
+	color: rgba(11, 15, 25, 0.82);
 }
 
 .product-detail__cta-group {
@@ -1221,6 +1234,7 @@
 .product-detail__section-body h2 {
 	margin: 0;
 	font-size: clamp(2rem, 5vw, 2.6rem);
+	text-align: center;
 }
 
 .product-detail__section-body h3 {

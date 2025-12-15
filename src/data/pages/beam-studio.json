@@ -4,7 +4,7 @@
       "title": "Beam Studio",
       "subtitle": "Redefining Possibilities, Simplifying Mastery.",
       "image": {
-        "src": "https://flux3dp.com/wp-content/uploads/2024/05/BS-Featured-Image.jpg",
+        "src": null,
         "srcset": null,
         "sizes": null,
         "alt": "Beam Studio logo",
@@ -14,11 +14,13 @@
       "background": {
         "desktop": "https://flux3dp.com/wp-content/uploads/2024/04/banner_BS-desktop.jpg"
       },
+      "darkMode": true,
       "ctas": [
         {
-          "label": "Download Software",
+          "label": "Download",
           "href": "https://flux3dp.com/downloads/",
-          "variant": "primary"
+          "variant": "primary",
+          "target": "_blank"
         },
         {
           "label": "Open Beam Studio Web",

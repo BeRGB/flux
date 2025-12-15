@@ -1,4 +1,5 @@
 import { type CSSProperties, type FC, Fragment } from 'react';
+import type { JSX } from 'react';
 import type { ProductCategory } from '../../data/productCategories';
 import type {
 	PageBlockEntry,
@@ -674,24 +675,31 @@ const ProductHeroBlock: FC<ProductHeroBlockProps> = ({ hero, productName, storeH
 		...(hero.background.desktop ? { '--hero-bg-desktop': `url(${hero.background.desktop})` } : {}),
 	};
 
+	const heroClassName = `product-detail__hero ${hero.darkMode ? 'product-detail__hero--light' : ''}`;
+	const heroCtas =
+		hero.ctas?.length && hero.ctas.length > 0
+			? hero.ctas
+			: [{ label: 'Get order', href: 'mailto:office@laserskisistemi.rs', variant: 'primary' as const }];
+
 	return (
-		<section className="product-detail__hero" style={heroBgStyle}>
+		<section className={heroClassName} style={heroBgStyle}>
 			<div className="product-detail__hero-content">
 				<div className="product-detail__hero-text">
 				
 					<h1>{hero.title}</h1>
 					<p>{hero.subtitle}</p>
 					<div className="product-detail__cta-group">
-						{(hero.ctas ?? []).map((cta) => (
+						{heroCtas.map((cta) => (
 							<a
-								key={cta.label}
-								className={`btn btn--${cta.variant === 'primary' ? 'primary' : 'secondary'}`}
-								href={cta.href ?? storeHref}
+								key={`${cta.label}-${cta.href ?? 'cta'}`}
+								className={`btn btn--${cta.variant === 'secondary' ? 'secondary' : 'primary'}`}
+								href={cta.href ?? '#'}
+								target={cta.target ?? undefined}
+								rel={cta.target === '_blank' ? 'noreferrer noopener' : undefined}
 							>
 								{cta.label}
 							</a>
 						))}
-						
 					</div>
 				</div>
 				{hero.image?.src ? (

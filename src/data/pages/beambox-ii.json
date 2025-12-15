@@ -305,5 +305,18 @@
         "image": "/images/diode/beamo-stainless-steel.jpg"
       }
     ]
+  },
+  {
+    "slalom": {
+      "heading": "Beambox II specifications",
+      "headingHtml": "Beambox II specifications",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<dl class=\"product-detail__specs\"><div class=\"product-detail__specs-row\"><dt>Laser spec</dt><dd>55W CO2</dd></div><div class=\"product-detail__specs-row\"><dt>Size</dt><dd>39.57&quot; x 27.24&quot; x 13.15&quot; (1005 x 692 x 334 mm)</dd></div><div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>107 lbs (48.5 kg)</dd></div><div class=\"product-detail__specs-row\"><dt>Max engraving speed</dt><dd>900 mm/s (35.43 inches/s)</dd></div><div class=\"product-detail__specs-row\"><dt>Max acceleration</dt><dd>8000 mm/s^2 (317 inches/s^2)</dd></div><div class=\"product-detail__specs-row\"><dt>Resolution</dt><dd>1000 DPI</dd></div><div class=\"product-detail__specs-row\"><dt>Display</dt><dd>5&quot; HD LCD Touchscreen</dd></div><div class=\"product-detail__specs-row\"><dt>Focus mode</dt><dd>Auto Focus</dd></div><div class=\"product-detail__specs-row\"><dt>Laser alignment</dt><dd>Camera Preview / Red Light Preview</dd></div><div class=\"product-detail__specs-row\"><dt>Camera</dt><dd>8 MP CMOS</dd></div><div class=\"product-detail__specs-row\"><dt>Connectivity</dt><dd>WiFi / USB / Ethernet (by USB Dongle)</dd></div><div class=\"product-detail__specs-row\"><dt>Operating system</dt><dd>Windows / macOS / Linux / ChromeOS / Web (iOS, iPadOS, Android)</dd></div><div class=\"product-detail__specs-row\"><dt>Software</dt><dd>Beam Studio / LightBurn</dd></div></dl>"
+      ],
+      "image": null,
+      "position": "left"
+    }
   }
 ]

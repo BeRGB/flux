@@ -368,5 +368,18 @@
       },
       "position": "right"
     }
+  },
+  {
+    "slalom": {
+      "heading": "HEXA specifications",
+      "headingHtml": "HEXA specifications",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<dl class=\"product-detail__specs\"><div class=\"product-detail__specs-row\"><dt>Dimensions</dt><dd>1110 x 670 x 273 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>58 kg</dd></div><div class=\"product-detail__specs-row\"><dt>Work area</dt><dd>730 x 410 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Work area depth</dt><dd>125 mm (Autofocus: 60mm)</dd></div><div class=\"product-detail__specs-row\"><dt>Camera preview area</dt><dd>730 x 395 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Power</dt><dd>AC 110V/220V</dd></div><div class=\"product-detail__specs-row\"><dt>Speed</dt><dd>1-900 mm/s</dd></div><div class=\"product-detail__specs-row\"><dt>Touch panel</dt><dd>1024 x 600 LCD</dd></div><div class=\"product-detail__specs-row\"><dt>Camera</dt><dd>HD CMOS</dd></div><div class=\"product-detail__specs-row\"><dt>I/O</dt><dd>Wi-Fi / USB / Ethernet / Direct Network Cable</dd></div><div class=\"product-detail__specs-row\"><dt>Laser spec</dt><dd>60W CO2 Laser</dd></div><div class=\"product-detail__specs-row\"><dt>Wavelength</dt><dd>10640 nm</dd></div><div class=\"product-detail__specs-row\"><dt>Cutting thickness</dt><dd>0 to 21mm (varies by material)</dd></div></dl>"
+      ],
+      "image": null,
+      "position": "left"
+    }
   }
 ]

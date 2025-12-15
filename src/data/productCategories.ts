@@ -85,7 +85,7 @@ export const productCategories: ProductCategory[] = [
 		image: '/images/products/beam-air.jpg',
 		href: '/products/beam-air',
 		storeHref: 'https://www.fluxlasers.com/products/beam-air/',
-		accent: 'outline',
+		accent: 'primary',
 	},
 	{
 		name: 'Beam Studio',
@@ -99,4 +99,13 @@ export const productCategories: ProductCategory[] = [
 	},
 ];
 
-export const flagshipNames = new Set(['Ador', 'Beamo', 'Beambox', 'Beambox II', 'Beambox Pro', 'HEXA', 'Promark Safe+']);
+export const flagshipNames = new Set([
+	'Ador',
+	'Beamo',
+	'Beambox',
+	'Beambox II',
+	'Beambox Pro',
+	'HEXA',
+	'Promark Safe+',
+	'Beam Air',
+]);

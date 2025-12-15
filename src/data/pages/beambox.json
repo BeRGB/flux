@@ -4,7 +4,7 @@
       "title": "Beambox",
       "subtitle": "The smart desktop laser cutter & engraver.",
       "image": {
-        "src": "https://flux3dp.com/wp-content/uploads/2021/03/demo2_FLUX-Laser.jpg",
+        "src": "/public/images/products/beambox.jpgg",
         "srcset": null,
         "sizes": "(min-width: 64rem) 700px, 100vw",
         "alt": "FLUX Beambox desktop laser cutter",
@@ -14,6 +14,7 @@
       "background": {
         "desktop": "https://flux3dp.com/wp-content/uploads/2021/03/demo2_FLUX-Laser-500x500.jpg"
       },
+      "darkMode": true,
       "ctas": [
         {
           "label": "Buy Beambox",
@@ -47,26 +48,7 @@
       }
     ]
   },
-  {
-    "slalom": {
-      "heading": "Free Your Inner Artist and Bring Your Ideas to Life.",
-      "headingHtml": "Free Your Inner Artist and Bring Your Ideas to Life.",
-      "subheading": null,
-      "subheadingHtml": null,
-      "bodyHtml": [
-        "<p>Beambox is a powerful laser cutter and engraver that lets you shape, cut, and engrave on materials like wood, leather, acrylic, and cardboard. Beambox meets all your expectations, and goes way beyond.</p>"
-      ],
-      "image": {
-        "src": "https://flux3dp.com/wp-content/uploads/2024/07/Button_Beambox-scaled.jpg",
-        "srcset": null,
-        "sizes": "(min-width: 32rem) 100vw, 50vw",
-        "alt": "Beambox laser cutting colorful materials on a desk",
-        "width": null,
-        "height": null
-      },
-      "position": "left"
-    }
-  },
+
   {
     "slalom": {
       "heading": "From Your Biggest Ideas To Your Greatest Work",

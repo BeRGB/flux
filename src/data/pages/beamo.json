@@ -111,54 +111,6 @@
   },
   {
     "slalom": {
-      "heading": "User-friendly experience",
-      "headingHtml": "User-friendly experience",
-      "subheading": null,
-      "subheadingHtml": null,
-      "bodyHtml": [
-        "<p class=\"margin-x-auto max-width-sm padding-top-sm padding-bottom-xl\">Whether you’re a first time user or a more advanced professional, Beamo’s straightforward, intuitive ecosystem makes it easy and hassle-free to go from design to product.</p>",
-        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Choose your material to cut or engrave</p>",
-        "<p>Use wood, acrylic, leather, fabric or even stone and cement.</p>",
-        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Drag and drop your design</p>",
-        "<p>Design in your preferred graphics editor and import it into our user-friendly application. Or take a photo and upload it.</p>",
-        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Engrave, cut or do both</p>",
-        "<p>Watch the magic happen and wait for your Beamo to finish the project.</p>",
-        "<p class=\"h5 padding-top-sm padding-bottom-xs\">Project completed!</p>",
-        "<p>Time to show off, use, gift or even sell your creation.</p>"
-      ],
-      "image": {
-        "src": "https://cdn.webshopapp.com/shops/290919/files/459673913/original/beamo-step-1.jpg",
-        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673913/50x50x3/beamo-step-1.jpg 50w,https://cdn.webshopapp.com/shops/290919/files/459673913/75x75x3/beamo-step-1.jpg 75w,https://cdn.webshopapp.com/shops/290919/files/459673913/100x100x3/beamo-step-1.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673913/125x125x3/beamo-step-1.jpg 125w,https://cdn.webshopapp.com/shops/290919/files/459673913/150x150x3/beamo-step-1.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673913/175x175x3/beamo-step-1.jpg 175w,https://cdn.webshopapp.com/shops/290919/files/459673913/200x200x3/beamo-step-1.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673913/225x225x3/beamo-step-1.jpg 225w,https://cdn.webshopapp.com/shops/290919/files/459673913/250x250x3/beamo-step-1.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673913/275x275x3/beamo-step-1.jpg 275w,https://cdn.webshopapp.com/shops/290919/files/459673913/300x300x3/beamo-step-1.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673913/325x325x3/beamo-step-1.jpg 325w,https://cdn.webshopapp.com/shops/290919/files/459673913/350x350x3/beamo-step-1.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673913/375x375x3/beamo-step-1.jpg 375w,https://cdn.webshopapp.com/shops/290919/files/459673913/400x400x3/beamo-step-1.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673913/425x425x3/beamo-step-1.jpg 425w,https://cdn.webshopapp.com/shops/290919/files/459673913/450x450x3/beamo-step-1.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673913/475x475x3/beamo-step-1.jpg 475w,https://cdn.webshopapp.com/shops/290919/files/459673913/500x500x3/beamo-step-1.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673913/original/beamo-step-1.jpg 500w",
-        "sizes": "(min-width: 64rem) 400px, 200px",
-        "alt": "A circle of all the different colours and types of materials that are sold as FLUX materials.",
-        "width": null,
-        "height": null
-      },
-      "position": "left"
-    }
-  },
-  {
-    "slalom": {
-      "heading": "Safe for home and school",
-      "headingHtml": "Safe for home and school",
-      "subheading": null,
-      "subheadingHtml": null,
-      "bodyHtml": [
-        "<p class=\"padding-top-md\">Rest easy with Beamo’s thoughtful <strong>safety features</strong>, including a <strong>fully enclosed design and an auto-pause function</strong> to stop production at any time. Opening the lid automatically pauses the running task. <br><br>Equipped with a Class 1 laser, it is <strong>completely safe</strong> for everyday use.</p>"
-      ],
-      "image": {
-        "src": "https://cdn.webshopapp.com/shops/290919/files/459673829/original/beamo-safety.jpg",
-        "srcset": "https://cdn.webshopapp.com/shops/290919/files/459673829/100x71x3/beamo-safety.jpg 100w,https://cdn.webshopapp.com/shops/290919/files/459673829/150x107x3/beamo-safety.jpg 150w,https://cdn.webshopapp.com/shops/290919/files/459673829/200x143x3/beamo-safety.jpg 200w,https://cdn.webshopapp.com/shops/290919/files/459673829/250x179x3/beamo-safety.jpg 250w,https://cdn.webshopapp.com/shops/290919/files/459673829/300x214x3/beamo-safety.jpg 300w,https://cdn.webshopapp.com/shops/290919/files/459673829/350x250x3/beamo-safety.jpg 350w,https://cdn.webshopapp.com/shops/290919/files/459673829/400x286x3/beamo-safety.jpg 400w,https://cdn.webshopapp.com/shops/290919/files/459673829/450x321x3/beamo-safety.jpg 450w,https://cdn.webshopapp.com/shops/290919/files/459673829/500x357x3/beamo-safety.jpg 500w,https://cdn.webshopapp.com/shops/290919/files/459673829/550x393x3/beamo-safety.jpg 550w,https://cdn.webshopapp.com/shops/290919/files/459673829/600x429x3/beamo-safety.jpg 600w,https://cdn.webshopapp.com/shops/290919/files/459673829/650x464x3/beamo-safety.jpg 650w,https://cdn.webshopapp.com/shops/290919/files/459673829/700x500x3/beamo-safety.jpg 700w,https://cdn.webshopapp.com/shops/290919/files/459673829/750x536x3/beamo-safety.jpg 750w,https://cdn.webshopapp.com/shops/290919/files/459673829/800x571x3/beamo-safety.jpg 800w,https://cdn.webshopapp.com/shops/290919/files/459673829/850x607x3/beamo-safety.jpg 850w,https://cdn.webshopapp.com/shops/290919/files/459673829/900x643x3/beamo-safety.jpg 900w,https://cdn.webshopapp.com/shops/290919/files/459673829/950x679x3/beamo-safety.jpg 950w,https://cdn.webshopapp.com/shops/290919/files/459673829/1000x714x3/beamo-safety.jpg 1000w,https://cdn.webshopapp.com/shops/290919/files/459673829/1050x750x3/beamo-safety.jpg 1050w,https://cdn.webshopapp.com/shops/290919/files/459673829/1100x786x3/beamo-safety.jpg 1100w,https://cdn.webshopapp.com/shops/290919/files/459673829/1150x821x3/beamo-safety.jpg 1150w,https://cdn.webshopapp.com/shops/290919/files/459673829/original/beamo-safety.jpg 1176w",
-        "sizes": "(min-width:32rem) 100vw, 50vw",
-        "alt": "Hands of a child solving a tangram and a 3D horse on the side, both lasercut by FLUX Beamo.",
-        "width": "1176",
-        "height": "840"
-      },
-      "position": "right"
-    }
-  },
-  {
-    "slalom": {
       "heading": "Take your Beamo to the next level with add-ons",
       "headingHtml": "Take your Beamo to the next level with add-ons",
       "subheading": "Rotary add-on",
@@ -169,7 +121,7 @@
         "<p class=\"padding-x-xs padding-top-sm padding-bottom-md margin-bottom-auto\">Beamo doesn't require any prior laser experience; the autofocus attachment will adjust to your materials as needed. Enjoy reliable cutting, even with thicker materials. </p>"
       ],
       "image": null,
-      "position": "left"
+      "position": "center"
     }
   },
   {
@@ -511,6 +463,19 @@
         "height": null
       },
       "position": "right"
+    }
+  },
+  {
+    "slalom": {
+      "heading": "Beamo specifications",
+      "headingHtml": "Beamo specifications",
+      "subheading": null,
+      "subheadingHtml": null,
+      "bodyHtml": [
+        "<dl class=\"product-detail__specs\"><div class=\"product-detail__specs-row\"><dt>Dimensions</dt><dd>615 x 445 x 177 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Weight</dt><dd>22 kg</dd></div><div class=\"product-detail__specs-row\"><dt>Work area</dt><dd>300 x 210 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Work area depth</dt><dd>45 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Camera preview area</dt><dd>300 x 195 mm</dd></div><div class=\"product-detail__specs-row\"><dt>Power</dt><dd>AC 110V/220V</dd></div><div class=\"product-detail__specs-row\"><dt>Speed</dt><dd>1-300 mm/s</dd></div><div class=\"product-detail__specs-row\"><dt>Touch panel</dt><dd>1024 x 600 LCD</dd></div><div class=\"product-detail__specs-row\"><dt>Camera</dt><dd>HD CMOS</dd></div><div class=\"product-detail__specs-row\"><dt>I/O</dt><dd>Wi-Fi / Ethernet / Direct Network Cable</dd></div><div class=\"product-detail__specs-row\"><dt>Laser spec</dt><dd>30W CO2 Laser</dd></div><div class=\"product-detail__specs-row\"><dt>Wavelength</dt><dd>10640 nm</dd></div><div class=\"product-detail__specs-row\"><dt>Cutting thickness</dt><dd>0 to 7mm (varies by material)</dd></div></dl>"
+      ],
+      "image": null,
+      "position": "left"
     }
   }
 ]

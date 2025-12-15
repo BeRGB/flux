@@ -230,14 +230,7 @@ const HomePage: FC = () => {
 							</article>
 						))}
 					</div>
-					<div className="section__footer">
-						<a className="btn btn--secondary" href="/products">
-							View full product catalogue
-						</a>
-						<a className="btn btn--primary" href="#contact">
-							Chat with a specialist
-						</a>
-					</div>
+					
 				</div>
 			</section>
 		</div>
